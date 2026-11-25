@@ -1,0 +1,142 @@
+{
+  "source": "Simonich et al. 2026, all_antibodies.csv (Fab columns)",
+  "statistic": "sum over mutations of max(escape, 0), the authors' own",
+  "frame": "504 sites, index i (1-based) == F site i + 25; sites 26-529",
+  "topk": 10,
+  "antibodies": [
+    "Nirsevimab",
+    "Clesrovimab",
+    "Palivizumab",
+    "Suptavumab",
+    "1A2",
+    "1B6"
+  ],
+  "per_antibody": {
+    "Nirsevimab": {
+      "rule": "top 10 of 504 sites (1.98%) of the floored-sum Fab statistic",
+      "n_sites": 10,
+      "threshold": 6.72563,
+      "median_stat": 0.6640999999999999,
+      "sites": [
+        64,
+        67,
+        68,
+        73,
+        201,
+        204,
+        205,
+        206,
+        208,
+        209
+      ],
+      "own_region": "region_0",
+      "n_in_own_region": 10,
+      "enrichment": 7.522388059701493
+    },
+    "Clesrovimab": {
+      "rule": "top 10 of 504 sites (1.98%) of the floored-sum Fab statistic",
+      "n_sites": 10,
+      "threshold": 5.14175,
+      "median_stat": 0.8353035,
+      "sites": [
+        235,
+        240,
+        421,
+        426,
+        429,
+        433,
+        443,
+        445,
+        446,
+        470
+      ],
+      "own_region": "region_IV",
+      "n_in_own_region": 7,
+      "enrichment": 7.056
+    },
+    "Palivizumab": {
+      "rule": "top 10 of 504 sites (1.98%) of the floored-sum Fab statistic",
+      "n_sites": 10,
+      "threshold": 5.7745,
+      "median_stat": 1.331400145,
+      "sites": [
+        255,
+        259,
+        262,
+        268,
+        269,
+        271,
+        272,
+        275,
+        276,
+        421
+      ],
+      "own_region": "region_II",
+      "n_in_own_region": 9,
+      "enrichment": 18.900000000000002
+    },
+    "Suptavumab": {
+      "rule": "top 10 of 504 sites (1.98%) of the floored-sum Fab statistic",
+      "n_sites": 10,
+      "threshold": 5.207334,
+      "median_stat": 1.0029400000000002,
+      "sites": [
+        60,
+        169,
+        172,
+        173,
+        174,
+        190,
+        201,
+        235,
+        244,
+        246
+      ],
+      "own_region": "region_V",
+      "n_in_own_region": 6,
+      "enrichment": 4.259154929577464
+    },
+    "1A2": {
+      "rule": "top 10 of 504 sites (1.98%) of the floored-sum Fab statistic",
+      "n_sites": 10,
+      "threshold": 2.709318,
+      "median_stat": 0.9429125,
+      "sites": [
+        55,
+        81,
+        112,
+        117,
+        255,
+        268,
+        402,
+        445,
+        476,
+        514
+      ],
+      "own_region": "region_IV",
+      "n_in_own_region": 1,
+      "enrichment": 1.008
+    },
+    "1B6": {
+      "rule": "top 10 of 504 sites (1.98%) of the floored-sum Fab statistic",
+      "n_sites": 10,
+      "threshold": 15.4525,
+      "median_stat": 2.0342000000000002,
+      "sites": [
+        63,
+        64,
+        65,
+        68,
+        87,
+        91,
+        94,
+        98,
+        206,
+        207
+      ],
+      "own_region": "region_0",
+      "n_in_own_region": 9,
+      "enrichment": 6.7701492537313435
+    }
+  }
+}

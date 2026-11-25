@@ -1,0 +1,41 @@
+Task III domain localisation (WALLE treasured-sweep-8, SARS-CoV-2 Spike, VH)
+n = 300 antibodies over 3 bins
+
+argmax-domain accuracy : 0.357
+macro-averaged recall  : 0.357  (every bin weighted equally)
+Matthews corr (MCC)    : +0.052  (chance-corrected, full confusion matrix; 0 = antibody-blind)
+Cohen's kappa          : +0.035  (chance-corrected via marginals; 0 = antibody-blind)
+top-2 accuracy         : 0.693
+mean rank of true bin  : 1.95 / 3
+domain rank-biserial   : mean +0.134 | median +0.381
+
+residue-level view (Task II metrics vs the domain label):
+  domain AUPRC         : mean 0.380 | median 0.349
+  its floor (bin size) : mean 0.288  -> enrichment 1.6x   (floors differ per bin: compare the enrichment)
+  precision@L          : mean 0.350 | median 0.368
+  bin-swap gap         : own 0.380 - cross 0.370 = +0.009  (win-rate 0.48)
+
+antibody-blind floors:
+  always-commonest-bin : 0.333  (bin NTD, n=100)
+  random score vector  : 0.332  (measured over 200 replicates)
+  chance agreement     : 0.333  (given the prediction marginals)
+
+conditioning (label-permutation null, 2000 shuffles):
+  p = 0.1204   z = +1.2   null accuracy 0.334
+  null: predicted domain is independent of antibody identity
+
+per-bin accuracy (recall):
+  NTD        n=100  recall 0.190 (random 0.345)  precision 0.404 (19/47 predicted)  F1 0.259  rankbis +0.385  BELOW random
+  RBD        n=100  recall 0.840 (random 0.364)  precision 0.340 (84/247 predicted)  F1 0.484  rankbis +0.544  
+  S2         n=100  recall 0.040 (random 0.304)  precision 0.667 (4/6 predicted)  F1 0.075  rankbis -0.526  BELOW random
+
+macro recall vs random macro: 0.357 vs 0.338
+Recall and precision are reported together because predicted class frequencies differ.
+predictions made per bin: {'NTD': 47, 'RBD': 247, 'S2': 6}
+
+confusion matrix (rows = true, cols = predicted):
+pred_bin  NTD  RBD  S2
+true_bin              
+NTD        19   81   0
+RBD        14   84   2
+S2         14   82   4

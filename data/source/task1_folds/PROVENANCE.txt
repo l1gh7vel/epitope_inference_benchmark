@@ -1,0 +1,21 @@
+Task I antigen groups, copied unmodified from the read-only upstream directory
+named by EIB_UPSTREAM_FOLDS (config/env.py). Built by the upstream
+benchmarks/make_cluster_folds.py: antigen sequence-identity clusters dealt into
+5 groups. The manifest column is still named `fold` because its readers are.
+
+test_fold_1.csv  c4786eaa354e19f8bd1de29ec879afd988ee8ae5bd4958cc8ebd40c7626679d6
+test_fold_2.csv  8a04e8041ec015a5500f9299220d78b32663543d014aa75c6f1d6c4fff7306d7
+test_fold_3.csv  3d043270d3a963f31a03142e646b27950c749e246cf89f4bdf7e9bdab86b40a9
+test_fold_4.csv  278c49b5a006c5047a0423d533c5e8e770817515b5b67a5c751289d4b75d8943
+test_fold_5.csv  a04f986e93737470553d82fbfe9e5fd97fdb1e41fbf7ea4f67e22494160e678f
+
+IDENTITY THRESHOLD.
+`Cluster` comes from CD-HIT, via the upstream parse.cluster.py ("Parse a CD-HIT .clstr
+file into a hash -> cluster_id CSV") and assign.cluster.py, which joins
+hash2cluster.csv onto the master by md5 of the antigen sequence. The CD-HIT
+command itself is in no script -- it was run interactively -- but the cluster
+file it produced, out.clstr beside those scripts upstream, bounds the threshold
+exactly: 1,149 clusters over 1,660 sequences, 511 non-representative members. The MINIMUM
+within-cluster identity to the representative is 90.04%, with 31 members in the
+90-91% band and none below. That is `cd-hit -c 0.9`. So "antigens were clustered
+at 90% sequence identity" is correct as written and does not need confirming.

@@ -1,0 +1,45 @@
+Task III domain localisation (WALLE wild-sweep-1, HIV-1 Env, VH)
+n = 300 antibodies over 5 bins
+
+argmax-domain accuracy : 0.153
+macro-averaged recall  : 0.202  (every bin weighted equally)
+Matthews corr (MCC)    : -0.012  (chance-corrected, full confusion matrix; 0 = antibody-blind)
+Cohen's kappa          : -0.003  (chance-corrected via marginals; 0 = antibody-blind)
+top-2 accuracy         : 0.307
+mean rank of true bin  : 2.74 / 5
+domain rank-biserial   : mean +0.272 | median +0.331
+
+residue-level view (Task II metrics vs the domain label):
+  domain AUPRC         : mean 0.066 | median 0.029
+  its floor (bin size) : mean 0.029  -> enrichment 1.9x   (floors differ per bin: compare the enrichment)
+  precision@L          : mean 0.047 | median 0.000
+  bin-swap gap         : own 0.066 - cross 0.073 = -0.007  (win-rate 0.32)
+
+antibody-blind floors:
+  always-commonest-bin : 0.387  (bin CD4bs, n=116)
+  random score vector  : 0.209  (measured over 200 replicates)
+  chance agreement     : 0.156  (given the prediction marginals)
+
+conditioning (label-permutation null, 2000 shuffles):
+  p = 0.7346   z = -0.4   null accuracy 0.156
+  null: predicted domain is independent of antibody identity
+
+per-bin accuracy (recall):
+  V3         n= 99  recall 0.010 (random 0.165)  precision 0.100 (1/10 predicted)  F1 0.018  rankbis +0.401  BELOW random
+  V2         n= 45  recall 1.000 (random 0.147)  precision 0.155 (45/290 predicted)  F1 0.269  rankbis +0.549    [trimer-dependent epitope; input contains one protomer]
+  CD4bs      n=116  recall 0.000 (random 0.281)  precision nan (0/0 predicted)  F1 0.000  rankbis +0.229  BELOW random
+  FP         n= 13  recall 0.000 (random 0.215)  precision nan (0/0 predicted)  F1 0.000  rankbis -0.303  BELOW random
+  MPER       n= 27  recall 0.000 (random 0.208)  precision nan (0/0 predicted)  F1 0.000  rankbis -0.202  BELOW random
+
+macro recall vs random macro: 0.202 vs 0.203
+Recall and precision are reported together because predicted class frequencies differ.
+predictions made per bin: {'V3': 10, 'V2': 290, 'CD4bs': 0, 'FP': 0, 'MPER': 0}
+
+confusion matrix (rows = true, cols = predicted):
+pred_bin  V3   V2  CD4bs  FP  MPER
+true_bin                          
+V3         1   98      0   0     0
+V2         0   45      0   0     0
+CD4bs      9  107      0   0     0
+FP         0   13      0   0     0
+MPER       0   27      0   0     0

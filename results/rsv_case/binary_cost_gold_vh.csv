@@ -1,0 +1,7 @@
+antibody,arm,epitope_class,n_gold,overlap,n_sig,expected,p,fold,recall,has_gold,note
+Nirsevimab,vh,site 0,24,9.0,10,0.476,2.3633020359644157e-12,18.900000000000002,0.9,True,
+Clesrovimab,vh,site IV,21,7.0,10,0.417,8.235986771944989e-09,16.8,0.7,True,
+Palivizumab,vh,site II,0,,10,,,,,False,Fab-alone structure
+Suptavumab,vh,site V,0,,10,,,,,False,no solved complex
+1A2,vh,site IV,24,1.0,10,0.476,0.3888569805336179,2.1,0.1,True,measured null
+1B6,vh,site 0,27,7.0,10,0.536,6.087501063173401e-08,13.066666666666666,0.7,True,

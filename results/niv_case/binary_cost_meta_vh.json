@@ -1,0 +1,46 @@
+{
+  "task": "niv",
+  "antigen": "Nipah virus RBP (G)",
+  "antigen_len": 532,
+  "chain_arm": "vh",
+  "escape_stat": "floored_sum",
+  "escape_statistic": "sum over the mutations at a site of max(escape_mean, 0) -- the authors' own floored SUM, not a mean",
+  "target_set": "escape",
+  "target_set_definition": "declared top 10 of the 510 scanned sites per antibody (scripts/niv_01_escape_sites.py)",
+  "ks": [
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    40,
+    50,
+    60,
+    80,
+    100,
+    125,
+    150,
+    200,
+    250
+  ],
+  "n_random": 400,
+  "seed": 0,
+  "walle_source": "af3",
+  "walle_checkpoint": "treasured-sweep-8",
+  "walle_variant": "task1",
+  "antibodies": [
+    "HENV-26",
+    "HENV-32",
+    "m102.4",
+    "nAH1.3"
+  ],
+  "methods": [
+    "AlphaFold3",
+    "BepiPred-3.0",
+    "ESMFold2",
+    "Random",
+    "WALLE"
+  ],
+  "without_gold": []
+}

@@ -1,0 +1,91 @@
+{
+  "task": "task3cov",
+  "variant": "walle_score",
+  "method": "WALLE lilac-sweep-16",
+  "n": 300,
+  "bins": [
+    "NTD",
+    "RBD",
+    "S2"
+  ],
+  "accuracy": 0.3566666666666667,
+  "macro_recall": 0.3566666666666667,
+  "random_macro_recall": 0.33770000000000006,
+  "kappa": 0.03500000000000005,
+  "mcc": 0.05608321444806635,
+  "top2": 0.6666666666666666,
+  "mean_rank_true": 1.9766666666666666,
+  "rankbis_mean": 0.13939026827784182,
+  "rankbis_median": 0.4693882204370856,
+  "floor_majority": 0.3333333333333333,
+  "floor_majority_bin": "NTD",
+  "floor_random": 0.33231666666666665,
+  "floor_uniform": 0.3333333333333333,
+  "chance_agreement": 0.3333333333333333,
+  "perm_p": 0.10044977511244378,
+  "perm_z": 1.339360737601873,
+  "perm_null_mean": 0.3338083333333333,
+  "n_predicted_per_bin": {
+    "NTD": 46,
+    "RBD": 254,
+    "S2": 0
+  },
+  "per_bin": [
+    {
+      "bin": "NTD",
+      "n": 100,
+      "recall": 0.18,
+      "random_recall": 0.34455,
+      "precision": 0.391304347826087,
+      "tp": 18,
+      "n_predicted": 46,
+      "f1": 0.2465753424657534,
+      "rankbis": 0.47191349493106954,
+      "below_random": true,
+      "trimer_dependent": false
+    },
+    {
+      "bin": "RBD",
+      "n": 100,
+      "recall": 0.89,
+      "random_recall": 0.36425,
+      "precision": 0.35039370078740156,
+      "tp": 89,
+      "n_predicted": 254,
+      "f1": 0.5028248587570622,
+      "rankbis": 0.5186972026478753,
+      "below_random": false,
+      "trimer_dependent": false
+    },
+    {
+      "bin": "S2",
+      "n": 100,
+      "recall": 0.0,
+      "random_recall": 0.3043,
+      "precision": null,
+      "tp": 0,
+      "n_predicted": 0,
+      "f1": 0.0,
+      "rankbis": -0.5724398927454194,
+      "below_random": true,
+      "trimer_dependent": false
+    }
+  ],
+  "confusion": {
+    "NTD": {
+      "NTD": 18,
+      "RBD": 82,
+      "S2": 0
+    },
+    "RBD": {
+      "NTD": 11,
+      "RBD": 89,
+      "S2": 0
+    },
+    "S2": {
+      "NTD": 17,
+      "RBD": 83,
+      "S2": 0
+    }
+  }
+}

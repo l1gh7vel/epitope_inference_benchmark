@@ -1,0 +1,91 @@
+{
+  "task": "task3cov",
+  "variant": "walle_score",
+  "method": "WALLE jumping-sweep-22",
+  "n": 300,
+  "bins": [
+    "NTD",
+    "RBD",
+    "S2"
+  ],
+  "accuracy": 0.3333333333333333,
+  "macro_recall": 0.3333333333333333,
+  "random_macro_recall": 0.33770000000000006,
+  "kappa": 0.0,
+  "mcc": 0.0,
+  "top2": 0.6666666666666666,
+  "mean_rank_true": 2.0,
+  "rankbis_mean": 0.10246867646988218,
+  "rankbis_median": 0.29138983407584096,
+  "floor_majority": 0.3333333333333333,
+  "floor_majority_bin": "NTD",
+  "floor_random": 0.33231666666666665,
+  "floor_uniform": 0.3333333333333333,
+  "chance_agreement": 0.3333333333333333,
+  "perm_p": 1.0,
+  "perm_z": 5.550806991439425e-05,
+  "perm_null_mean": 0.33333333333333326,
+  "n_predicted_per_bin": {
+    "NTD": 0,
+    "RBD": 300,
+    "S2": 0
+  },
+  "per_bin": [
+    {
+      "bin": "NTD",
+      "n": 100,
+      "recall": 0.0,
+      "random_recall": 0.34455,
+      "precision": null,
+      "tp": 0,
+      "n_predicted": 0,
+      "f1": 0.0,
+      "rankbis": 0.28735086119198794,
+      "below_random": true,
+      "trimer_dependent": false
+    },
+    {
+      "bin": "RBD",
+      "n": 100,
+      "recall": 1.0,
+      "random_recall": 0.36425,
+      "precision": 0.3333333333333333,
+      "tp": 100,
+      "n_predicted": 300,
+      "f1": 0.5,
+      "rankbis": 0.6402251121076233,
+      "below_random": false,
+      "trimer_dependent": false
+    },
+    {
+      "bin": "S2",
+      "n": 100,
+      "recall": 0.0,
+      "random_recall": 0.3043,
+      "precision": null,
+      "tp": 0,
+      "n_predicted": 0,
+      "f1": 0.0,
+      "rankbis": -0.6201699438899648,
+      "below_random": true,
+      "trimer_dependent": false
+    }
+  ],
+  "confusion": {
+    "NTD": {
+      "NTD": 0,
+      "RBD": 100,
+      "S2": 0
+    },
+    "RBD": {
+      "NTD": 0,
+      "RBD": 100,
+      "S2": 0
+    },
+    "S2": {
+      "NTD": 0,
+      "RBD": 100,
+      "S2": 0
+    }
+  }
+}

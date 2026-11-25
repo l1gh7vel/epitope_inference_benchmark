@@ -1,0 +1,106 @@
+{
+  "VRC01|Dingens2019_BG505": {
+    "paper": "Dingens2019",
+    "strain": "BG505.T332N",
+    "metric": "median excess fraction surviving",
+    "n_mutations": 13220,
+    "n_sites": 661,
+    "n_insertion_sites_dropped": 9
+  },
+  "3BNC117|Dingens2019_BG505": {
+    "paper": "Dingens2019",
+    "strain": "BG505.T332N",
+    "metric": "median excess fraction surviving",
+    "n_mutations": 13220,
+    "n_sites": 661,
+    "n_insertion_sites_dropped": 9
+  },
+  "10-1074|Dingens2019_BG505": {
+    "paper": "Dingens2019",
+    "strain": "BG505.T332N",
+    "metric": "median excess fraction surviving",
+    "n_mutations": 13220,
+    "n_sites": 661,
+    "n_insertion_sites_dropped": 9
+  },
+  "PGT121|Dingens2019_BG505": {
+    "paper": "Dingens2019",
+    "strain": "BG505.T332N",
+    "metric": "median excess fraction surviving",
+    "n_mutations": 13220,
+    "n_sites": 661,
+    "n_insertion_sites_dropped": 9
+  },
+  "PGT151|Dingens2019_BG505": {
+    "paper": "Dingens2019",
+    "strain": "BG505.T332N",
+    "metric": "median excess fraction surviving",
+    "n_mutations": 13220,
+    "n_sites": 661,
+    "n_insertion_sites_dropped": 9
+  },
+  "PG9|Dingens2019_BG505": {
+    "paper": "Dingens2019",
+    "strain": "BG505.T332N",
+    "metric": "median excess fraction surviving",
+    "n_mutations": 13220,
+    "n_sites": 661,
+    "n_insertion_sites_dropped": 9
+  },
+  "10E8|Dingens2019_BG505": {
+    "paper": "Dingens2019",
+    "strain": "BG505.T332N",
+    "metric": "median excess fraction surviving",
+    "n_mutations": 13220,
+    "n_sites": 661,
+    "n_insertion_sites_dropped": 9
+  },
+  "PGT145|Dingens2019_BG505": {
+    "paper": "Dingens2019",
+    "strain": "BG505.T332N",
+    "metric": "median excess fraction surviving",
+    "n_mutations": 13220,
+    "n_sites": 661,
+    "n_insertion_sites_dropped": 9
+  },
+  "VRC34|Dingens2019_BG505": {
+    "paper": "Dingens2019",
+    "strain": "BG505.T332N",
+    "metric": "median excess fraction surviving",
+    "n_mutations": 13220,
+    "n_sites": 661,
+    "n_insertion_sites_dropped": 9
+  },
+  "3BNC117|Radford2025_BF520": {
+    "paper": "Radford2025",
+    "strain": "BF520",
+    "metric": "escape_mean",
+    "n_mutations": 5329,
+    "n_sites": 771,
+    "n_insertion_sites_dropped": 15
+  },
+  "3BNC117|Radford2025_TRO11": {
+    "paper": "Radford2025",
+    "strain": "TRO11",
+    "metric": "escape_mean",
+    "n_mutations": 7207,
+    "n_sites": 806,
+    "n_insertion_sites_dropped": 22
+  },
+  "10-1074|Radford2025_BF520": {
+    "paper": "Radford2025",
+    "strain": "BF520",
+    "metric": "escape_mean",
+    "n_mutations": 5481,
+    "n_sites": 785,
+    "n_insertion_sites_dropped": 15
+  },
+  "10-1074|Radford2025_TRO11": {
+    "paper": "Radford2025",
+    "strain": "TRO11",
+    "metric": "escape_mean",
+    "n_mutations": 7322,
+    "n_sites": 803,
+    "n_insertion_sites_dropped": 22
+  }
+}

@@ -1,0 +1,9 @@
+set,unit,n
+all instances,instances,22742
+all PDB entries,PDB entries,11762
+with an antigen of any type,instances,20311
+paired VH+VL,PDB entries,9539
+"paired VH+VL, any antigen",PDB entries,8497
+"paired VH+VL, PROTEIN component",instances,12943
+"paired VH+VL, PROTEIN component",PDB entries,6694
+excluded: no protein component,PDB entries,1822

@@ -1,0 +1,91 @@
+{
+  "task": "task3cov",
+  "variant": "walle_score",
+  "method": "WALLE decent-sweep-2",
+  "n": 300,
+  "bins": [
+    "NTD",
+    "RBD",
+    "S2"
+  ],
+  "accuracy": 0.32666666666666666,
+  "macro_recall": 0.32666666666666666,
+  "random_macro_recall": 0.33770000000000006,
+  "kappa": -0.00999999999999998,
+  "mcc": -0.03583638619256224,
+  "top2": 0.7133333333333334,
+  "mean_rank_true": 1.96,
+  "rankbis_mean": 0.03886121252855208,
+  "rankbis_median": 0.02910551310236209,
+  "floor_majority": 0.3333333333333333,
+  "floor_majority_bin": "NTD",
+  "floor_random": 0.33231666666666665,
+  "floor_uniform": 0.3333333333333333,
+  "chance_agreement": 0.3333333333333333,
+  "perm_p": 0.8705647176411794,
+  "perm_z": -0.9006954812482887,
+  "perm_null_mean": 0.3334516666666667,
+  "n_predicted_per_bin": {
+    "NTD": 0,
+    "RBD": 292,
+    "S2": 8
+  },
+  "per_bin": [
+    {
+      "bin": "NTD",
+      "n": 100,
+      "recall": 0.0,
+      "random_recall": 0.34455,
+      "precision": null,
+      "tp": 0,
+      "n_predicted": 0,
+      "f1": 0.0,
+      "rankbis": -0.052832637597783005,
+      "below_random": true,
+      "trimer_dependent": false
+    },
+    {
+      "bin": "RBD",
+      "n": 100,
+      "recall": 0.97,
+      "random_recall": 0.36425,
+      "precision": 0.3321917808219178,
+      "tp": 97,
+      "n_predicted": 292,
+      "f1": 0.4948979591836734,
+      "rankbis": 0.14206948537262437,
+      "below_random": false,
+      "trimer_dependent": false
+    },
+    {
+      "bin": "S2",
+      "n": 100,
+      "recall": 0.01,
+      "random_recall": 0.3043,
+      "precision": 0.125,
+      "tp": 1,
+      "n_predicted": 8,
+      "f1": 0.018518518518518517,
+      "rankbis": 0.027346789810814842,
+      "below_random": true,
+      "trimer_dependent": false
+    }
+  ],
+  "confusion": {
+    "NTD": {
+      "NTD": 0,
+      "RBD": 96,
+      "S2": 4
+    },
+    "RBD": {
+      "NTD": 0,
+      "RBD": 97,
+      "S2": 3
+    },
+    "S2": {
+      "NTD": 0,
+      "RBD": 99,
+      "S2": 1
+    }
+  }
+}

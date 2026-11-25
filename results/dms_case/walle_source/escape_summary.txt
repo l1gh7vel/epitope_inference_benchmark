@@ -1,0 +1,109 @@
+
+=== arm=vhvl k=25 recall ===
+                            median_n9  mean_n9  median_n7  mean_n7
+method                                                            
+AlphaFold3                     0.0000   0.0938     0.0667   0.1206
+BepiPred-3.0                   0.0000   0.0467     0.0000   0.0601
+ESMFold2                       0.0667   0.1178     0.0667   0.1514
+Random                         0.0379   0.0372     0.0379   0.0377
+WALLE (AF3 input)              0.0000   0.0530     0.0000   0.0205
+WALLE (experimental input)     0.0000   0.1235     0.0000   0.0476
+
+=== arm=vhvl k=25 fold ===
+                            median_n9  mean_n9  median_n7  mean_n7
+method                                                            
+AlphaFold3                     0.0000   2.4808     1.7627   3.1896
+BepiPred-3.0                   0.0000   1.2354     0.0000   1.5883
+ESMFold2                       1.7627   3.1135     1.7627   4.0031
+Random                         1.0025   0.9836     1.0025   0.9964
+WALLE (AF3 input)              0.0000   1.4011     0.0000   0.5424
+WALLE (experimental input)     0.0000   3.2642     0.0000   1.2590
+  Wilcoxon one-sided exp>af3 recall@25 n=9: wins 3/9, ties 5, p=0.1875
+  Wilcoxon one-sided exp>af3 recall@25 n=7 (drop PG9,10E8): wins 2/7, ties 4, p=0.3750
+
+=== arm=vhvl k=50 recall ===
+                            median_n9  mean_n9  median_n7  mean_n7
+method                                                            
+AlphaFold3                     0.1333   0.2023     0.1538   0.2601
+BepiPred-3.0                   0.0000   0.0467     0.0000   0.0601
+ESMFold2                       0.1333   0.2792     0.2667   0.3590
+Random                         0.0769   0.0765     0.0769   0.0767
+WALLE (AF3 input)              0.0667   0.0980     0.0667   0.0625
+WALLE (experimental input)     0.0769   0.2505     0.0000   0.0681
+
+=== arm=vhvl k=50 fold ===
+                            median_n9  mean_n9  median_n7  mean_n7
+method                                                            
+AlphaFold3                     1.7627   2.6741     2.0338   3.4382
+BepiPred-3.0                   0.0000   0.6177     0.0000   0.7942
+ESMFold2                       1.7627   3.6911     3.5253   4.7456
+Random                         1.0163   1.0114     1.0163   1.0141
+WALLE (AF3 input)              0.8813   1.2950     0.8813   0.8256
+WALLE (experimental input)     1.0169   3.3119     0.0000   0.9007
+  Wilcoxon one-sided exp>af3 recall@50 n=9: wins 5/9, ties 1, p=0.1562
+  Wilcoxon one-sided exp>af3 recall@50 n=7 (drop PG9,10E8): wins 3/7, ties 1, p=0.5000
+
+=== arm=vh k=25 recall ===
+                            median_n9  mean_n9  median_n7  mean_n7
+method                                                            
+AlphaFold3                     0.0667   0.1279     0.1667   0.1645
+BepiPred-3.0                   0.0000   0.0467     0.0000   0.0601
+ESMFold2                       0.0000   0.0574     0.0000   0.0738
+Random                         0.0379   0.0372     0.0379   0.0377
+WALLE (AF3 input)              0.0000   0.0627     0.0000   0.0330
+WALLE (experimental input)     0.0000   0.1235     0.0000   0.0476
+
+=== arm=vh k=25 fold ===
+                            median_n9  mean_n9  median_n7  mean_n7
+method                                                            
+AlphaFold3                     1.7627   3.3822     4.4067   4.3486
+BepiPred-3.0                   0.0000   1.2354     0.0000   1.5883
+ESMFold2                       0.0000   1.5179     0.0000   1.9515
+Random                         1.0025   0.9836     1.0025   0.9964
+WALLE (AF3 input)              0.0000   1.6572     0.0000   0.8716
+WALLE (experimental input)     0.0000   3.2642     0.0000   1.2590
+  Wilcoxon one-sided exp>af3 recall@25 n=9: wins 3/9, ties 5, p=0.3125
+  Wilcoxon one-sided exp>af3 recall@25 n=7 (drop PG9,10E8): wins 2/7, ties 4, p=0.6250
+
+=== arm=vh k=50 recall ===
+                            median_n9  mean_n9  median_n7  mean_n7
+method                                                            
+AlphaFold3                     0.1333   0.2283     0.2500   0.2936
+BepiPred-3.0                   0.0000   0.0467     0.0000   0.0601
+ESMFold2                       0.0000   0.1352     0.1333   0.1738
+Random                         0.0769   0.0765     0.0769   0.0767
+WALLE (AF3 input)              0.0000   0.0775     0.0000   0.0520
+WALLE (experimental input)     0.0769   0.2431     0.0000   0.0586
+
+=== arm=vh k=50 fold ===
+                            median_n9  mean_n9  median_n7  mean_n7
+method                                                            
+AlphaFold3                     1.7627   3.0188     3.3050   3.8813
+BepiPred-3.0                   0.0000   0.6177     0.0000   0.7942
+ESMFold2                       0.0000   1.7871     1.7627   2.2978
+Random                         1.0163   1.0114     1.0163   1.0141
+WALLE (AF3 input)              0.0000   1.0245     0.0000   0.6876
+WALLE (experimental input)     1.0169   3.2140     0.0000   0.7748
+  Wilcoxon one-sided exp>af3 recall@50 n=9: wins 5/9, ties 2, p=0.1641
+  Wilcoxon one-sided exp>af3 recall@50 n=7 (drop PG9,10E8): wins 3/7, ties 2, p=0.5625
+
+=== arm=vhvl k=50 one-sided Fisher p, median across antibodies ===
+                            median_n9  n_sig_p<0.05_n9  median_n7  n_sig_p<0.05_n7
+method                                                                            
+AlphaFold3                     0.3157                3     0.2573                3
+BepiPred-3.0                   1.0000                0     1.0000                0
+ESMFold2                       0.3157                4     0.0212                4
+Random                         0.6651                0     0.6634                0
+WALLE (AF3 input)              0.6967                1     0.6967                0
+WALLE (experimental input)     0.6438                2     1.0000                0
+
+=== arm=vh k=50 one-sided Fisher p, median across antibodies ===
+                            median_n9  n_sig_p<0.05_n9  median_n7  n_sig_p<0.05_n7
+method                                                                            
+AlphaFold3                     0.3157                3     0.0551                3
+BepiPred-3.0                   1.0000                0     1.0000                0
+ESMFold2                       1.0000                3     0.3157                3
+Random                         0.6651                0     0.6634                0
+WALLE (AF3 input)              1.0000                1     1.0000                0
+WALLE (experimental input)     0.6438                2     1.0000                0
+

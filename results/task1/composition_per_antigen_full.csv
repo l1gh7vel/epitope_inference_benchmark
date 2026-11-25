@@ -1,0 +1,1131 @@
+cluster,antigen_name,n_antibodies,n_antigen_ids,union_size,pct_antibodies
+92,spike glycoprotein,832,20,1524,18.9478478706445
+196,envelope glycoprotein gp120,132,9,933,3.006148941015714
+657,guanine nucleotide-binding protein g(i) subunit alpha-1,61,3,97,1.38920519243908
+1073,lysozyme c,58,4,207,1.3208836255978138
+137,guanine nucleotide-binding protein g(s) subunit alphaisoforms short,56,7,405,1.275335914370303
+7,envelope protein e,39,16,709,0.8881803689364609
+404,fusion glycoprotein f0,34,8,608,0.7743110908676839
+398,ricin,34,1,294,0.7743110908676839
+344,hemagglutinin,32,8,590,0.7287633796401731
+193,envelope glycoprotein gp160,32,3,276,0.7287633796401731
+78,spike glycoprotein,30,14,705,0.6832156684126622
+11,envelope glycoprotein e,29,18,630,0.6604418127989069
+412,hemagglutinin,27,17,723,0.614894101571396
+419,hemagglutinin,27,20,512,0.614894101571396
+418,hemagglutinin,26,9,542,0.5921202459576407
+767,clade a/e 93th057 hiv-1 gp120 core,26,1,185,0.5921202459576407
+88,bont/a,24,6,666,0.5465725347301298
+96,spike protein s1,22,4,320,0.501024823502619
+422,hemagglutinin ha1,21,7,403,0.47825096788886357
+416,hemagglutinin,20,10,404,0.4554771122751082
+188,ch848.10.17 gp120,19,3,237,0.4327032566613528
+872,programmed cell death protein 1,19,1,99,0.4327032566613528
+16,gametocyte surface protein p230,19,1,176,0.4327032566613528
+198,envelope glycoprotein gp160,18,4,305,0.40992940104759734
+539,green fluorescent protein,17,3,228,0.38715554543384195
+33,capsid protein vp3,16,7,221,0.36438168982008656
+397,envelope glycoprotein e2,15,5,347,0.3416078342063311
+804,minor capsid protein a1,15,1,81,0.3416078342063311
+487,reticulocyte-binding protein homolog 5,14,3,296,0.31883397859257573
+663,beta-arrestin-1,14,3,248,0.31883397859257573
+97,receptor tyrosine-protein kinase erbb-2,14,1,280,0.31883397859257573
+617,gametocyte surface protein p45/48,13,2,181,0.29606012297882034
+108,epidermal growth factor receptor,13,1,208,0.29606012297882034
+469,fusion glycoprotein f0,13,5,421,0.29606012297882034
+28,a/wh/cha/09 vp3,13,9,303,0.29606012297882034
+324,virion spike glycoprotein 1,12,4,202,0.2732862673650649
+209,envelope glycoprotein gp120,12,4,211,0.2732862673650649
+458,fusion glycoprotein f0,12,1,181,0.2732862673650649
+868,programmed cell death 1 ligand 1,12,1,59,0.2732862673650649
+849,adp-ribosyl cyclase/cyclic adp-ribose hydrolase 1,11,1,145,0.2505124117513095
+575,neuraminidase,11,6,310,0.2505124117513095
+22,reticulocyte binding protein 2b,11,1,196,0.2505124117513095
+962,cytotoxic t-lymphocyte protein 4,11,1,79,0.2505124117513095
+730,mhc class i antigen,11,8,215,0.2505124117513095
+456,immunoglobulin heavy constant epsilon,11,1,120,0.2505124117513095
+153,"glutamate receptor ionotropic, nmda 1",11,2,175,0.2505124117513095
+10,envelope protein,11,9,224,0.2505124117513095
+429,hemagglutinin,11,7,383,0.2505124117513095
+1100,soluble cytochrome b562,11,1,77,0.2505124117513095
+454,capsid protein,10,1,171,0.2277385561375541
+12,envelope protein,10,6,187,0.2277385561375541
+127,envelopment polyprotein,10,6,294,0.2277385561375541
+901,enterotoxin type b,10,1,146,0.2277385561375541
+301,polymerase acidic protein,10,2,138,0.2277385561375541
+425,hemagglutinin,10,6,252,0.2277385561375541
+571,neuraminidase,10,5,195,0.2277385561375541
+52,gp38,10,1,173,0.2277385561375541
+766,guanine nucleotide-binding protein g(o) subunit alpha,10,1,18,0.2277385561375541
+1063,interleukin-17a,10,1,81,0.2277385561375541
+951,tumor necrosis factor,9,2,113,0.20496470052379867
+305,envelope glycoprotein h,9,4,195,0.20496470052379867
+403,hyaluronan synthase,9,4,257,0.20496470052379867
+234,envelope glycoprotein gp120,9,1,223,0.20496470052379867
+23,toxin a,9,4,330,0.20496470052379867
+779,sodium/bile acid cotransporter,9,2,101,0.20496470052379867
+143,atp-dependent dna helicase q5,9,1,55,0.20496470052379867
+662,nucleoprotein,9,1,111,0.20496470052379867
+318,ubiquitin,9,4,172,0.20496470052379867
+25,toxin b,8,2,297,0.18219084491004328
+1108,endoribonuclease mazf,8,1,75,0.18219084491004328
+40,viral protein 2,8,3,151,0.18219084491004328
+20,e2 glycoprotein,8,3,233,0.18219084491004328
+18,envelope glycoprotein e2,8,1,85,0.18219084491004328
+1077,interleukin-13,8,3,88,0.18219084491004328
+371,glycoprotein g,8,2,301,0.18219084491004328
+746,cysteine-rich protective antigen,8,1,133,0.18219084491004328
+221,envelope protein,8,7,235,0.18219084491004328
+41,vp2,8,4,121,0.18219084491004328
+468,vp1,8,3,205,0.18219084491004328
+513,tyrosine-protein phosphatase non-receptor type substrate 1,8,1,98,0.18219084491004328
+339,iron-regulated surface determinant protein b,8,5,203,0.18219084491004328
+323,envelope glycoprotein,8,6,179,0.18219084491004328
+312,proprotein convertase subtilisin/kexin type 9,8,1,200,0.18219084491004328
+909,cystic fibrosis transmembrane conductance regulator,8,2,247,0.18219084491004328
+888,outer surface protein a,8,4,145,0.18219084491004328
+896,interleukin-1 beta,8,2,135,0.18219084491004328
+904,major prion protein,8,5,138,0.18219084491004328
+67,capsid protein,8,6,191,0.18219084491004328
+74,insulin receptor,7,1,69,0.15941698929628786
+885,tumor necrosis factor receptor superfamily member 5,7,1,120,0.15941698929628786
+38,vp1 protein,7,5,95,0.15941698929628786
+367,albumin,7,1,96,0.15941698929628786
+1070,ribonuclease pancreatic,7,1,33,0.15941698929628786
+882,histone chaperone asf1,7,2,118,0.15941698929628786
+89,botulinum neurotoxin type b,7,1,232,0.15941698929628786
+1038,envelope protein ul128,7,4,82,0.15941698929628786
+759,guanine nucleotide-binding protein g(i) subunit alpha-2,7,1,18,0.15941698929628786
+629,tumor necrosis factor receptor superfamily member 10b,7,1,78,0.15941698929628786
+492,beta-secretase 2,7,1,77,0.15941698929628786
+815,leukocyte surface antigen cd47,7,1,50,0.15941698929628786
+600,t-cell surface glycoprotein cd4,7,1,90,0.15941698929628786
+510,erythropoietin receptor,7,1,68,0.15941698929628786
+470,fusion glycoprotein f0,7,4,209,0.15941698929628786
+100,e2 glycoprotein,7,4,98,0.15941698929628786
+479,major capsid protein l1,7,3,160,0.15941698929628786
+753,guanine nucleotide-binding protein g(q) subunit alpha,7,2,36,0.15941698929628786
+8,envelope protein e,7,7,120,0.15941698929628786
+5,envelope domain iii,7,6,155,0.15941698929628786
+945,mcherry fluorescent protein,7,4,241,0.15941698929628786
+847,cftr inhibitory factor,6,1,103,0.13664313368253245
+53,complement c5,6,1,170,0.13664313368253245
+1067,interleukin-2,6,1,86,0.13664313368253245
+1060,dihydrofolate reductase,6,1,80,0.13664313368253245
+37,vp3,6,5,86,0.13664313368253245
+225,gp120,6,2,94,0.13664313368253245
+704,adiponectin receptor protein 2,6,1,36,0.13664313368253245
+81,receptor tyrosine-protein kinase erbb-3,6,1,130,0.13664313368253245
+947,cd81 antigen,6,1,67,0.13664313368253245
+405,5'-nucleotidase,6,2,154,0.13664313368253245
+433,hemagglutinin ha1,6,4,75,0.13664313368253245
+354,"mesothelin, cleaved form",6,1,123,0.13664313368253245
+421,hemagglutinin,6,3,181,0.13664313368253245
+135,integrin alpha-iib,6,1,94,0.13664313368253245
+569,gamma-aminobutyric acid receptor subunit alpha-1,6,4,195,0.13664313368253245
+566,gamma-aminobutyric acid receptor subunit beta-3,6,1,68,0.13664313368253245
+562,h(+)/cl(-) exchange transporter clca,6,5,126,0.13664313368253245
+603,acetylcholine receptor subunit alpha,6,3,128,0.13664313368253245
+109,nsmgngc,6,2,115,0.13664313368253245
+918,tumor necrosis factor receptor superfamily member 9,6,1,109,0.13664313368253245
+265,integrin beta-3,6,1,101,0.13664313368253245
+251,volume-regulated anion channel subunit lrrc8a,6,1,158,0.13664313368253245
+229,envelope glycoprotein gp160,6,3,196,0.13664313368253245
+184,envelope glycoprotein gp41,6,4,131,0.13664313368253245
+208,envelope glycoprotein gp120,6,3,140,0.13664313368253245
+384,hemagglutinin,6,6,206,0.13664313368253245
+327,capsid protein,6,5,197,0.13664313368253245
+21,von willebrand factor,6,2,106,0.13664313368253245
+713,alpha1a-adrenergic receptor,6,2,83,0.13664313368253245
+936,t-cell immunoreceptor with ig and itim domains,5,1,61,0.11386927806877704
+887,tryptase alpha/beta-1,5,1,34,0.11386927806877704
+295,capsid protein vp1,5,2,163,0.11386927806877704
+452,sphingosine-1-phosphate transporter spns2,5,1,49,0.11386927806877704
+987,interleukin-6,5,1,80,0.11386927806877704
+985,capsid protein,5,3,146,0.11386927806877704
+79,spike glycoprotein,5,2,143,0.11386927806877704
+64,"glutamate receptor ionotropic, nmda 2a",5,2,120,0.11386927806877704
+1087,envelope glycoprotein l,5,2,52,0.11386927806877704
+9,envelope protein,5,2,102,0.11386927806877704
+465,capsid protein,5,2,136,0.11386927806877704
+930,entry-fusion complex associated protein opg095,5,2,104,0.11386927806877704
+116,spike protein,5,4,102,0.11386927806877704
+98,coat protein,5,1,124,0.11386927806877704
+926,major prion protein,5,2,72,0.11386927806877704
+858,tissue factor,5,1,73,0.11386927806877704
+734,cytokine receptor common subunit gamma,5,1,96,0.11386927806877704
+720,guanine nucleotide-binding protein subunit alpha-13,5,1,18,0.11386927806877704
+250,s-layer protein sap,5,1,100,0.11386927806877704
+549,pre-glycoprotein polyprotein gp complex,5,2,108,0.11386927806877704
+231,426c ds-sosip d3,5,2,121,0.11386927806877704
+855,b-lymphocyte antigen cd20,5,1,34,0.11386927806877704
+130,duffy binding surface protein region ii,5,3,148,0.11386927806877704
+144,ephrin type-a receptor 2,5,1,115,0.11386927806877704
+151,o/tibet/99 vp2,5,3,93,0.11386927806877704
+836,mitochondrial brown fat uncoupling protein 1,5,1,69,0.11386927806877704
+482,capsid protein vp1,5,1,126,0.11386927806877704
+489,glycoprotein,5,3,156,0.11386927806877704
+536,protein-cysteine n-palmitoyltransferase hhat,5,1,89,0.11386927806877704
+274,envelope glycoprotein h,5,3,156,0.11386927806877704
+817,arginase-1,5,1,101,0.11386927806877704
+672,"endolysin,beta-2 adrenergic receptor",5,1,89,0.11386927806877704
+699,transforming growth factor beta-1,5,1,108,0.11386927806877704
+670,transforming growth factor beta-2,5,1,81,0.11386927806877704
+690,activity-regulated cytoskeleton-associated protein,5,2,140,0.11386927806877704
+760,envelope glycoprotein gp120 of hiv-1 clade c,5,1,94,0.11386927806877704
+807,interleukin-12 subunit beta,5,1,106,0.11386927806877704
+168,toll-like receptor 3,5,1,122,0.11386927806877704
+31,vp3,5,1,52,0.11386927806877704
+380,atp-dependent lipid a-core flippase,5,3,124,0.11386927806877704
+345,sodium-dependent serotonin transporter,5,2,76,0.11386927806877704
+334,atp-binding cassette sub-family g member 2,5,1,106,0.11386927806877704
+36,capsid protein vp1,5,5,39,0.11386927806877704
+1064,superoxide dismutase [cu-zn],5,1,89,0.11386927806877704
+1055,ara h 2 allergen,5,1,95,0.11386927806877704
+1059,ph-gated potassium channel kcsa,5,2,59,0.11386927806877704
+54,complement c3,5,1,74,0.11386927806877704
+63,"glutamate receptor ionotropic, nmda 2b",5,1,63,0.11386927806877704
+1079,conglutin,4,1,78,0.09109542245502164
+1081,granulocyte-macrophage colony-stimulating factor,4,1,63,0.09109542245502164
+56,roundabout homolog 1,4,1,47,0.09109542245502164
+60,low-density lipoprotein receptor-related protein 6,4,1,122,0.09109542245502164
+61,isoform 2 of synaptojanin-1,4,1,34,0.09109542245502164
+49,complement c4 alpha chain,4,1,264,0.09109542245502164
+50,merozoite surface protein 1,4,2,64,0.09109542245502164
+42,genome polyprotein,4,1,117,0.09109542245502164
+44,coagulation factor viii,4,1,65,0.09109542245502164
+1056,major pollen allergen bet v 1-a,4,1,87,0.09109542245502164
+335,hepatocyte growth factor activator,4,1,62,0.09109542245502164
+356,apical membrane antigen 1,4,1,111,0.09109542245502164
+802,invasin ipad,4,1,125,0.09109542245502164
+799,urokinase plasminogen activator surface receptor,4,1,56,0.09109542245502164
+798,antigen-presenting glycoprotein cd1d,4,1,72,0.09109542245502164
+646,putative zinc metalloprotease aq_1964,4,1,82,0.09109542245502164
+651,divalent metal cation transporter mnth,4,3,154,0.09109542245502164
+653,transcobalamin-2,4,1,148,0.09109542245502164
+659,"2',3'-cyclic-nucleotide 3'-phosphodiesterase",4,1,129,0.09109542245502164
+681,plasminogen activator inhibitor 1,4,1,105,0.09109542245502164
+218,envelope glycoprotein gp160,4,2,122,0.09109542245502164
+707,mhc class i chain-related protein a,4,2,83,0.09109542245502164
+705,isoform 2 of basigin,4,1,73,0.09109542245502164
+473,potassium channel subfamily k member 10,4,1,94,0.09109542245502164
+467,capsid protein vp1,4,2,72,0.09109542245502164
+925,"hla class ii histocompatibility antigen, dq alpha 1 chain",4,2,61,0.09109542245502164
+103,spike glycoprotein e2,4,1,92,0.09109542245502164
+917,factor h binding protein,4,1,76,0.09109542245502164
+73,hepatocyte growth factor receptor,4,1,79,0.09109542245502164
+1048,mp18 rna editing complex protein,4,1,71,0.09109542245502164
+426,hemagglutinin,4,4,146,0.09109542245502164
+410,solute carrier family 40 member 1,4,2,156,0.09109542245502164
+4,6-deoxyerythronolide b synthase,4,1,136,0.09109542245502164
+69,protein patched homolog 1,4,2,147,0.09109542245502164
+739,igg receptor fcrn large subunit p51,4,1,52,0.09109542245502164
+181,envelope glycoprotein gp120,4,3,91,0.09109542245502164
+574,neuraminidase,4,4,206,0.09109542245502164
+244,interleukin-4 receptor subunit alpha,4,2,73,0.09109542245502164
+740,"h-2 class i histocompatibility antigen, d-d alpha chain",4,1,80,0.09109542245502164
+285,disintegrin and metalloproteinase domain-containing protein10,4,2,46,0.09109542245502164
+560,variant surface glycoprotein mitat 1.2,4,1,88,0.09109542245502164
+141,insulin-degrading enzyme,4,1,87,0.09109542245502164
+852,"type 1 fimbrin d-mannose specific adhesin fimh, donorstrand complemented with fimg peptide 'triple mutant'",4,1,80,0.09109542245502164
+634,divalent metal cation transporter,4,1,77,0.09109542245502164
+842,imv membrane protein,4,1,109,0.09109542245502164
+848,hepatitis a virus cellular receptor 2,4,1,64,0.09109542245502164
+920,envelope glycoprotein ul130,4,3,76,0.09109542245502164
+537,neuraminidase,4,3,146,0.09109542245502164
+529,thiamine transporter 2,4,1,77,0.09109542245502164
+491,major capsid protein l1,4,1,77,0.09109542245502164
+496,immunoglobulin g binding protein a,4,2,73,0.09109542245502164
+282,rna-directed rna polymerase catalytic subunit,4,3,76,0.09109542245502164
+259,integrin beta-1,4,1,90,0.09109542245502164
+192,crf-1_ae t/f100 env gp120,4,2,108,0.09109542245502164
+820,cys-loop ligand-gated ion channel,4,1,97,0.09109542245502164
+911,cd27 antigen,4,1,47,0.09109542245502164
+908,prostate-specific antigen,4,1,96,0.09109542245502164
+409,hemagglutinin-neuraminidase,4,2,199,0.09109542245502164
+997,t-cell surface glycoprotein cd3 epsilon chain,4,1,34,0.09109542245502164
+964,membrane protein,4,1,51,0.09109542245502164
+340,sodium-dependent dopamine transporter,4,2,63,0.09109542245502164
+891,interleukin-2 receptor subunit alpha,4,1,84,0.09109542245502164
+1136,beta-mammal toxin cn2,3,1,50,0.06832156684126622
+1071,lysozyme c,3,1,53,0.06832156684126622
+1050,bpp,3,1,85,0.06832156684126622
+1054,pilin,3,1,40,0.06832156684126622
+376,uncharacterized abc transporter atp-binding proteintm_0288,3,1,76,0.06832156684126622
+333,envelope glycoprotein e,3,2,72,0.06832156684126622
+326,atp-binding cassette sub-family g member 8,3,1,60,0.06832156684126622
+1044,phospholipase a2,3,1,82,0.06832156684126622
+346,inlb,3,2,90,0.06832156684126622
+26,coagulation factor viii,3,1,64,0.06832156684126622
+1122,histone h4,3,2,10,0.06832156684126622
+752,"type-1 angiotensin ii receptor,soluble cytochrome b562 brilfusion protein",3,1,116,0.06832156684126622
+167,envelope glycoprotein b,3,1,70,0.06832156684126622
+660,beta-arrestin-2,3,2,92,0.06832156684126622
+745,"9mer peptide,beta-2-microglobulin,mhc class i antigenchimera",3,3,112,0.06832156684126622
+771,cobalt/magnesium transport protein cora,3,1,132,0.06832156684126622
+687,apolipoprotein l1,3,1,48,0.06832156684126622
+655,carboxypeptidase b2,3,1,95,0.06832156684126622
+678,fragilysin,3,1,98,0.06832156684126622
+675,isoform l-vegf206 of vascular endothelial growth factor a,3,1,15,0.06832156684126622
+686,mu-type opioid receptor,3,1,112,0.06832156684126622
+701,quinolone resistance protein nora,3,1,166,0.06832156684126622
+214,suppressor of tumorigenicity 14 protein,3,1,61,0.06832156684126622
+216,donor 45 01dg5 coree gp120,3,1,60,0.06832156684126622
+29,neurogenic locus notch homolog protein 3,3,1,93,0.06832156684126622
+837,beta-lactamase,3,1,63,0.06832156684126622
+850,f18 fimbrial adhesin ac,3,1,82,0.06832156684126622
+859,potassium channel,3,1,26,0.06832156684126622
+845,peptidase 1,3,1,72,0.06832156684126622
+869,b- and t-lymphocyte attenuator,3,1,65,0.06832156684126622
+289,adhesin binding fucosylated histo-blood group antigen,3,1,131,0.06832156684126622
+133,integrin alpha-v,3,1,56,0.06832156684126622
+134,beta-klotho,3,1,125,0.06832156684126622
+565,2g12 igg dimer heavy chain,3,3,75,0.06832156684126622
+578,interleukin-6 receptor subunit alpha,3,1,44,0.06832156684126622
+644,protein translocase subunit secy,3,1,43,0.06832156684126622
+242,cadherin-3,3,1,65,0.06832156684126622
+622,type vi secretion protein,3,2,86,0.06832156684126622
+584,neuraminidase,3,1,73,0.06832156684126622
+576,properdin,3,1,63,0.06832156684126622
+577,neuraminidase,3,1,106,0.06832156684126622
+723,growth/differentiation factor 8,3,1,59,0.06832156684126622
+714,"soluble cytochrome b562,apelin receptor",3,1,98,0.06832156684126622
+253,angiotensin-converting enzyme 2,3,1,28,0.06832156684126622
+219,"envelope glycoprotein gp160,envelope glycoprotein gp160,envelope glycoprotein gp160",3,1,73,0.06832156684126622
+235,protein translocase subunit seca,3,1,24,0.06832156684126622
+237,1fd6-v1v2 scaffold zm109 hiv-1 strain,3,1,37,0.06832156684126622
+19,core protein precursor ee2,3,2,51,0.06832156684126622
+202,glycoprotein gp120,3,1,73,0.06832156684126622
+166,envelope glycoprotein gp350,3,1,64,0.06832156684126622
+177,cadherin-1,3,1,49,0.06832156684126622
+179,capsid protein vp1,3,3,49,0.06832156684126622
+493,acetylcholine receptor subunit delta,3,1,68,0.06832156684126622
+822,heat-labile enterotoxin b chain,3,1,48,0.06832156684126622
+819,sialic acid-binding periplasmic protein siap,3,1,76,0.06832156684126622
+518,acetylcholine receptor subunit beta,3,1,53,0.06832156684126622
+505,"alpha-amylase, pancreatic",3,1,144,0.06832156684126622
+150,leucine-rich repeat-containing g-protein coupled receptor4,3,1,35,0.06832156684126622
+884,tumor necrosis factor receptor superfamily member 4,3,1,57,0.06832156684126622
+894,cystinosin homolog,3,1,102,0.06832156684126622
+910,complement factor d,3,2,50,0.06832156684126622
+101,togavirin,3,2,138,0.06832156684126622
+481,resistance to inhibitors of cholinesterase 8 homolog a (c.elegans),3,1,115,0.06832156684126622
+929,hemagglutinin ha2 chain,3,2,62,0.06832156684126622
+488,lymphocyte activation gene 3 protein,3,1,70,0.06832156684126622
+273,integrin beta-8,3,1,46,0.06832156684126622
+281,polymerase basic protein 2,3,1,60,0.06832156684126622
+959,cd9 antigen,3,1,37,0.06832156684126622
+967,t-cell-specific surface glycoprotein cd28,3,1,33,0.06832156684126622
+1022,a33r,3,1,33,0.06832156684126622
+86,cyclin-g-associated kinase,3,1,76,0.06832156684126622
+1017,isoform 2b of gtpase kras,3,2,71,0.06832156684126622
+1016,interleukin-23 subunit alpha,3,1,75,0.06832156684126622
+309,nucleoprotein,3,1,35,0.06832156684126622
+121,envelope polyprotein,3,1,91,0.06832156684126622
+942,beta-nerve growth factor,3,1,35,0.06832156684126622
+963,cytotoxic t-lymphocyte protein 4,3,1,51,0.06832156684126622
+970,eukaryotic translation initiation factor 4e,3,1,43,0.06832156684126622
+415,hemagglutinin ha1 chain,3,2,96,0.06832156684126622
+348,coagulation factor xi,3,1,57,0.06832156684126622
+444,b-lymphocyte antigen cd19,3,1,44,0.06832156684126622
+352,protein eds1l,3,1,78,0.06832156684126622
+1084,galectin-10,3,1,35,0.06832156684126622
+1097,toxin higb-2,3,2,86,0.06832156684126622
+1082,interleukin-9,3,1,44,0.06832156684126622
+1095,histone h2a type 1-b/e,3,2,58,0.06832156684126622
+1,3c-like proteinase,3,2,114,0.06832156684126622
+1102,histone h2b type 1-j,3,2,40,0.06832156684126622
+1099,der p 2 variant 3,3,1,56,0.06832156684126622
+1146,protein translocase subunit sece,2,1,6,0.04554771122751082
+0,"maltose/maltodextrin-binding periplasmic protein,mucin-16",2,1,45,0.04554771122751082
+2,"6-deoxyerythronolide-b synthase erya2, modules 3 and 4",2,2,38,0.04554771122751082
+1096,lysozyme,2,1,26,0.04554771122751082
+6,jev e protein,2,1,44,0.04554771122751082
+13,erythrocyte membrane protein 1,2,1,25,0.04554771122751082
+1051,interleukin-17f,2,1,35,0.04554771122751082
+1057,v-type proton atpase subunit c,2,1,27,0.04554771122751082
+94,"atp-dependent translocase abcb1,mneongreen",2,1,69,0.04554771122751082
+1042,interleukin-2,2,1,44,0.04554771122751082
+84,serine/threonine-protein kinase sik3,2,1,54,0.04554771122751082
+91,isoform 2 of phosphatidylcholine translocator abcb4,2,1,78,0.04554771122751082
+68,isoform 2 of adhesion g protein-coupled receptor l3,2,1,65,0.04554771122751082
+72,envelopment polyprotein,2,1,53,0.04554771122751082
+77,vascular endothelial growth factor receptor 2,2,1,57,0.04554771122751082
+325,envelope glycoprotein,2,2,62,0.04554771122751082
+328,frizzled-3,2,1,63,0.04554771122751082
+330,protein-arginine deiminase type-4,2,1,94,0.04554771122751082
+372,t-cell surface protein tactile,2,1,35,0.04554771122751082
+377,voltage-dependent l-type calcium channel subunit beta-1,2,1,75,0.04554771122751082
+355,auxin efflux carrier component 1,2,1,35,0.04554771122751082
+357,prothrombin,2,1,46,0.04554771122751082
+361,sodium-dependent noradrenaline transporter,2,1,68,0.04554771122751082
+65,centrosomal protein of 164 kda,2,1,66,0.04554771122751082
+1026,mhc class i antigen,2,1,33,0.04554771122751082
+1028,arc,2,1,73,0.04554771122751082
+1013,interleukin-18,2,1,55,0.04554771122751082
+1018,gtpase hras,2,1,29,0.04554771122751082
+1021,interferon alpha-2,2,1,54,0.04554771122751082
+1009,t9ss component cytoplasmic membrane protein porm,2,1,39,0.04554771122751082
+1000,virion spike glycoprotein 2,2,2,34,0.04554771122751082
+1003,surface glycoprotein,2,1,53,0.04554771122751082
+989,bcl-2 homologous antagonist/killer,2,1,41,0.04554771122751082
+990,outer surface protein c,2,1,54,0.04554771122751082
+978,v-type proton atpase subunit c'',2,1,4,0.04554771122751082
+980,o/tibet/99 vp1,2,2,72,0.04554771122751082
+983,er lumen protein-retaining receptor 2,2,1,60,0.04554771122751082
+975,spike protein s1,2,1,58,0.04554771122751082
+976,spike protein,2,1,40,0.04554771122751082
+401,"potassium voltage-gated channel subfamily a member 3,greenfluorescent protein fusion",2,1,26,0.04554771122751082
+406,frizzled-7,2,1,39,0.04554771122751082
+408,hemagglutinin,2,2,64,0.04554771122751082
+413,cytochrome b-245 heavy chain,2,1,33,0.04554771122751082
+391,frizzled-10,2,1,54,0.04554771122751082
+396,"abc transporter, atp-binding protein",2,1,32,0.04554771122751082
+399,voltage-sensor containing phosphatase,2,1,38,0.04554771122751082
+350,"adp,atp carrier protein 1, chloroplastic",2,1,100,0.04554771122751082
+388,capsid protein 2,2,1,36,0.04554771122751082
+390,outer capsid protein vp4,2,2,41,0.04554771122751082
+331,interleukin-12 receptor subunit beta-1,2,1,29,0.04554771122751082
+332,leucine-rich repeat-containing protein 32,2,1,27,0.04554771122751082
+343,plasma kallikrein,2,1,89,0.04554771122751082
+955,triggering receptor expressed on myeloid cells 2,2,1,39,0.04554771122751082
+956,mhc class ii hla-dq-beta-1,2,1,22,0.04554771122751082
+949,t-cell surface glycoprotein cd8 alpha chain,2,1,41,0.04554771122751082
+118,integrin alpha-m,2,1,47,0.04554771122751082
+120,glycoprotein n,2,1,63,0.04554771122751082
+125,rab family protein,2,1,96,0.04554771122751082
+111,"integrin alpha 1, (residues 169-360)",2,1,40,0.04554771122751082
+112,spike glycoprotein s1,2,1,29,0.04554771122751082
+113,integrin alpha-l,2,1,58,0.04554771122751082
+117,nucleoporin nup133,2,1,57,0.04554771122751082
+938,interleukin-34,2,1,56,0.04554771122751082
+922,"hla class ii histocompatibility antigen, dr alpha chain",2,1,22,0.04554771122751082
+900,"hemagglutinin ha1 chain, hla class ii histocompatibilityantigen dr beta chain",2,1,7,0.04554771122751082
+907,gnas complex locus,2,1,43,0.04554771122751082
+886,k88 fimbrial protein ac,2,2,87,0.04554771122751082
+890,hla class i histocompatibility antigen b alpha chain (hla-,2,1,49,0.04554771122751082
+898,chimeric nav1.7-navab,2,1,26,0.04554771122751082
+883,envelope glycoprotein l,2,2,20,0.04554771122751082
+152,tyrosine-protein kinase transmembrane receptor ror2,2,1,16,0.04554771122751082
+136,nucleoporin nup120,2,1,41,0.04554771122751082
+145,mast/stem cell growth factor receptor kit,2,1,45,0.04554771122751082
+149,hexon protein,2,1,35,0.04554771122751082
+293,nucleoprotein,2,1,53,0.04554771122751082
+443,protein m td,2,1,39,0.04554771122751082
+446,fusion glycoprotein f0,2,2,65,0.04554771122751082
+448,feline leukemia virus subgroup c cellular receptor 2,2,1,72,0.04554771122751082
+435,rhodopsin kinase grk1,2,1,34,0.04554771122751082
+438,5'-amp-activated protein kinase catalytic subunit alpha-1,2,1,70,0.04554771122751082
+430,apical membrane antigen 1 (fragment),2,2,73,0.04554771122751082
+431,non-specific serine/threonine protein kinase,2,1,84,0.04554771122751082
+132,integrin alpha-5 light chain,2,1,47,0.04554771122751082
+867,cysteine-rich small secreted protein css,2,1,65,0.04554771122751082
+843,tissue factor pathway inhibitor,2,1,61,0.04554771122751082
+851,capsid protein vp1,2,2,81,0.04554771122751082
+854,cytochrome c oxidase polypeptide ii,2,1,27,0.04554771122751082
+833,iron abc transporter substrate-binding lipoprotein mtsa,2,1,103,0.04554771122751082
+835,abc transporter substrate-binding protein,2,2,49,0.04554771122751082
+841,natural cytotoxicity triggering receptor 1,2,1,51,0.04554771122751082
+829,calcium homeostasis modulator protein 4,2,1,18,0.04554771122751082
+831,v-type immunoglobulin domain-containing suppressor of t-cell activation,2,1,46,0.04554771122751082
+812,ebola virus makona gp1,2,2,33,0.04554771122751082
+813,aquaporin-4,2,1,32,0.04554771122751082
+814,calcium homeostasis modulator protein 2,2,1,34,0.04554771122751082
+821,alpha-hemolysin,2,2,59,0.04554771122751082
+185,metabotropic glutamate receptor 2,2,1,48,0.04554771122751082
+171,cytokine receptor common beta chain precursor,2,1,35,0.04554771122751082
+175,glutamate receptor,2,2,63,0.04554771122751082
+810,nucleoporin nup35,2,1,33,0.04554771122751082
+162,epithelial discoidin domain-containing receptor 1,2,1,51,0.04554771122751082
+164,26s proteasome non-atpase regulatory subunit 2,2,1,39,0.04554771122751082
+165,glutamate receptor 1,2,2,47,0.04554771122751082
+169,envelope glycoprotein b,2,1,39,0.04554771122751082
+170,envelope glycoprotein b,2,1,40,0.04554771122751082
+797,tumor necrosis factor receptor superfamily member 6,2,1,28,0.04554771122751082
+788,g-protein coupled receptor family c group 5 member d,2,1,47,0.04554771122751082
+790,metalloreductase steap1,2,1,25,0.04554771122751082
+795,antigen-presenting glycoprotein cd1d1,2,2,54,0.04554771122751082
+474,lysosomal acid glucosylceramidase,2,1,71,0.04554771122751082
+321,envelope glycoprotein,2,2,71,0.04554771122751082
+453,sodium-coupled neutral amino acid transporter 9,2,1,31,0.04554771122751082
+311,protein-glutamine gamma-glutamyltransferase e,2,1,48,0.04554771122751082
+313,solute carrier organic anion transporter family member 1b1,2,1,30,0.04554771122751082
+299,hepatocyte growth factor,2,1,53,0.04554771122751082
+769,aspartic protease bla g 2,2,1,60,0.04554771122751082
+770,c-x-c chemokine receptor type 4,2,1,73,0.04554771122751082
+775,induced myeloid leukemia cell differentiation protein mcl-1,2,1,36,0.04554771122751082
+763,guanine nucleotide-binding protein g(t) subunit alpha-3,2,1,16,0.04554771122751082
+749,atypical chemokine receptor 3,2,1,103,0.04554771122751082
+751,killer cell immunoglobulin-like receptor 2dl3,2,2,71,0.04554771122751082
+756,"soluble cytochrome b562,g-protein coupled receptor 20",2,1,33,0.04554771122751082
+736,cystinosin,2,1,28,0.04554771122751082
+738,neuronal migration protein doublecortin,2,1,59,0.04554771122751082
+743,capsid protein vp1,2,2,62,0.04554771122751082
+725,phosphate-binding protein psts 1,2,1,50,0.04554771122751082
+727,ciliary neurotrophic factor receptor subunit alpha,2,1,53,0.04554771122751082
+729,surface protein p12p,2,1,57,0.04554771122751082
+226,gp120,2,2,36,0.04554771122751082
+715,neuraminidase,2,1,83,0.04554771122751082
+717,outer membrane protein a,2,2,56,0.04554771122751082
+212,envelope glycoprotein gp120,2,1,74,0.04554771122751082
+213,phosphodiesterase 5/6 chimera catalytic domain,2,1,11,0.04554771122751082
+217,"gp41 mper peptide,putative fluoride ion transporter crcb",2,1,46,0.04554771122751082
+222,botulinum neurotoxin type e,2,1,89,0.04554771122751082
+224,1fd6-v1v2-wito,2,1,36,0.04554771122751082
+203,envelope glycoprotein gp160,2,1,76,0.04554771122751082
+204,envelope glycoprotein b,2,1,26,0.04554771122751082
+206,envelope glycoprotein gp120,2,1,67,0.04554771122751082
+207,envelope glycoprotein gp160,2,2,63,0.04554771122751082
+516,neuronal acetylcholine receptor subunit alpha-7,2,1,33,0.04554771122751082
+519,capsid protein p24,2,2,47,0.04554771122751082
+501,leucine transporter leut,2,1,61,0.04554771122751082
+502,butyrophilin subfamily 3 member a1,2,1,47,0.04554771122751082
+504,activin receptor type-2b,2,1,72,0.04554771122751082
+486,butyrophilin subfamily 2 member a1,2,1,34,0.04554771122751082
+498,antiseptic resistance protein,2,1,50,0.04554771122751082
+499,synaptic vesicular amine transporter,2,1,56,0.04554771122751082
+476,nup54,2,1,55,0.04554771122751082
+483,4f2 cell-surface antigen heavy chain,2,1,73,0.04554771122751082
+708,"chitinase 3-like 1 (cartilage glycoprotein-39), isoformcra_a",2,2,50,0.04554771122751082
+709,mucosal addressin cell adhesion molecule 1,2,1,51,0.04554771122751082
+195,s-layer protein ea1,2,1,71,0.04554771122751082
+199,envelope glycoprotein gp120,2,1,68,0.04554771122751082
+706,isoform 2 of ceramide synthase 6,2,1,45,0.04554771122751082
+693,gdnf family receptor alpha-like,2,1,48,0.04554771122751082
+673,adenosine receptor a2a,2,1,63,0.04554771122751082
+674,transforming growth factor beta-3,2,1,28,0.04554771122751082
+677,bestrophin-1,2,2,26,0.04554771122751082
+682,ig gamma-1 chain c region,2,2,58,0.04554771122751082
+661,isoform 2 of potassium channel subfamily k member 4,2,2,34,0.04554771122751082
+664,alpha-1-antitrypsin,2,1,66,0.04554771122751082
+665,oxalate,2,1,44,0.04554771122751082
+668,lipid iii flippase,2,1,76,0.04554771122751082
+257,internalin a,2,1,108,0.04554771122751082
+656,equilibrative nucleoside/nucleobase transporter,2,1,74,0.04554771122751082
+248,nuclear pore complex protein nup93,2,1,68,0.04554771122751082
+256,lps-assembly protein lptd,2,1,49,0.04554771122751082
+233,envelope glycoprotein gp120,2,1,25,0.04554771122751082
+238,"v-type proton atpase subunit a, vacuolar isoform",2,1,11,0.04554771122751082
+243,hapless 2,2,1,53,0.04554771122751082
+260,capsid polyprotein vp90,2,1,50,0.04554771122751082
+264,cadherin-6,2,1,24,0.04554771122751082
+266,structural protein,2,1,51,0.04554771122751082
+267,capsid polyprotein vp70,2,1,64,0.04554771122751082
+268,gelsolin,2,1,31,0.04554771122751082
+541,glycoprotein g2,2,1,54,0.04554771122751082
+530,pre-glycoprotein polyprotein gp complex,2,2,46,0.04554771122751082
+532,angiopoietin-2,2,1,10,0.04554771122751082
+538,transmembrane protease serine 2,2,1,136,0.04554771122751082
+641,urokinase-type plasminogen activator,2,1,90,0.04554771122751082
+642,urokinase-type plasminogen activator,2,1,76,0.04554771122751082
+227,b-cell receptor cd22,2,1,77,0.04554771122751082
+639,transcriptional adapter 2,2,2,15,0.04554771122751082
+640,botulinum neurotoxin e heavy chain,2,1,45,0.04554771122751082
+624,putative amino acid/polyamine transport protein,2,2,76,0.04554771122751082
+628,phosphatidylcholine-sterol acyltransferase,2,1,81,0.04554771122751082
+631,histone acetyltransferase gcn5,2,1,49,0.04554771122751082
+614,procollagen c-endopeptidase enhancer 1,2,1,74,0.04554771122751082
+615,"maltodextrin-binding protein,immunoglobulin g-bindingprotein a,immunoglobulin g-binding protein g",2,1,25,0.04554771122751082
+618,tapasin,2,1,48,0.04554771122751082
+619,neuraminidase,2,1,81,0.04554771122751082
+608,tetanus toxin,2,2,58,0.04554771122751082
+611,immunoglobulin g-binding protein a,2,1,27,0.04554771122751082
+595,"tumor necrosis factor receptor superfamily member 1b,maltose/maltodextrin-binding periplasmic protein",2,1,41,0.04554771122751082
+596,vitamin k-dependent protein c heavy chain,2,1,58,0.04554771122751082
+597,ecd,2,1,43,0.04554771122751082
+598,crescentin,2,2,74,0.04554771122751082
+599,interleukin-7 receptor subunit alpha,2,1,56,0.04554771122751082
+601,"bifunctional adenylate cyclase toxin/hemolysin cyaa,bifunctional adenylate cyclase toxin/hemolysin cyaa",2,1,61,0.04554771122751082
+602,"1,3-beta-glucanosyltransferase",2,2,117,0.04554771122751082
+586,glucagon-like peptide 1 receptor,2,1,56,0.04554771122751082
+588,sonic hedgehog protein n-product,2,1,35,0.04554771122751082
+591,coagulation factor ix,2,1,20,0.04554771122751082
+580,alpha-1a adrenergic receptor,2,1,64,0.04554771122751082
+582,gastric inhibitory polypeptide receptor,2,1,51,0.04554771122751082
+559,glucagon receptor,2,1,52,0.04554771122751082
+568,adenylate cyclase,2,2,94,0.04554771122751082
+552,gasdermin-d,2,1,98,0.04554771122751082
+553,beta-1 adrenergic receptor,2,1,72,0.04554771122751082
+556,serine protease htra1,2,1,18,0.04554771122751082
+284,sulfhydryl oxidase 1,2,1,42,0.04554771122751082
+287,nucleoporin nup85,2,1,35,0.04554771122751082
+275,dipeptidyl peptidase 4,2,1,34,0.04554771122751082
+277,rna-editing complex protein mp81,2,1,41,0.04554771122751082
+1088,pertussis like toxin subunit b,2,2,56,0.04554771122751082
+1091,"fatty acid-binding protein, adipocyte",2,1,35,0.04554771122751082
+62,erythrocyte binding antigen 175,2,2,41,0.04554771122751082
+45,plexin-b1,2,1,100,0.04554771122751082
+48,nuclear pore complex protein nup96,2,1,61,0.04554771122751082
+51,envelopment polyprotein,2,1,31,0.04554771122751082
+35,vp1,2,1,32,0.04554771122751082
+1128,stromal cell-derived factor 1,2,1,54,0.04554771122751082
+1123,platelet factor 4,2,1,39,0.04554771122751082
+1124,c-c motif chemokine 2,2,1,36,0.04554771122751082
+1113,c-x-c motif chemokine 3,2,1,31,0.04554771122751082
+1114,ul131a,2,1,21,0.04554771122751082
+1115,mitochondrial pyruvate carrier 1,2,1,34,0.04554771122751082
+1109,beta-2-microglobulin,2,1,31,0.04554771122751082
+1148,short neurotoxin 1,1,1,19,0.02277385561375541
+15,"6-deoxyerythronolide-b synthase erya3, modules 5 and 6",1,1,23,0.02277385561375541
+17,var2csa,1,1,56,0.02277385561375541
+24,neurogenic locus notch homolog protein 1,1,1,32,0.02277385561375541
+27,n11 p domain,1,1,38,0.02277385561375541
+30,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesteraseepsilon-1",1,1,42,0.02277385561375541
+1106,thioredoxin 1,1,1,32,0.02277385561375541
+1107,pollen allergen phl p 2,1,1,30,0.02277385561375541
+1110,gonadotropin alpha subunit,1,1,14,0.02277385561375541
+1111,hiv rev,1,1,24,0.02277385561375541
+1112,"t cell receptor alpha variable 10, nkt tcr alpha chainfusion",1,1,15,0.02277385561375541
+1116,c-x-c motif chemokine 13,1,1,31,0.02277385561375541
+1117,"chimera of major allergen i polypeptide chain 2,majorallergen i polypeptide chain 1",1,1,25,0.02277385561375541
+1118,c-x-c motif chemokine 2,1,1,33,0.02277385561375541
+1119,c-x-c motif chemokine 2,1,1,13,0.02277385561375541
+1120,cytochrome c,1,1,16,0.02277385561375541
+1121,v-type atpase subunit g,1,1,8,0.02277385561375541
+1125,interleukin-8,1,1,34,0.02277385561375541
+1126,alpha-bungarotoxin,1,1,22,0.02277385561375541
+1127,c-c motif chemokine 17,1,1,16,0.02277385561375541
+71,bloom syndrome protein,1,1,52,0.02277385561375541
+75,mediator of rna polymerase ii transcription subunit 23,1,1,51,0.02277385561375541
+76,insulin-like growth factor 1 receptor,1,1,44,0.02277385561375541
+80,spike glycoprotein,1,1,26,0.02277385561375541
+82,son of sevenless homolog 1,1,1,41,0.02277385561375541
+83,pro-interleukin-16,1,1,33,0.02277385561375541
+85,sterol regulatory element-binding protein cleavage-activating protein,1,1,25,0.02277385561375541
+87,receptor tyrosine-protein kinase erbb-4,1,1,20,0.02277385561375541
+381,"cytochrome b2, mitochondrial",1,1,21,0.02277385561375541
+382,abc transporter atp-binding protein,1,1,10,0.02277385561375541
+383,hyaluronan synthase 1,1,1,36,0.02277385561375541
+386,glutamate decarboxylase 2,1,1,36,0.02277385561375541
+387,frizzled-5,1,1,33,0.02277385561375541
+329,sodium/glucose cotransporter 1,1,1,17,0.02277385561375541
+66,spike protein,1,1,18,0.02277385561375541
+70,a disintegrin and metalloproteinase with thrombospondinmotifs 13,1,1,45,0.02277385561375541
+368,conjugative transfer,1,1,32,0.02277385561375541
+369,acetylcholinesterase,1,1,43,0.02277385561375541
+370,prostaglandin g/h synthase 2,1,1,63,0.02277385561375541
+373,interleukin-18 receptor accessory protein,1,1,65,0.02277385561375541
+374,nucleoporin nup58,1,1,18,0.02277385561375541
+375,sodium- and chloride-dependent gaba transporter 1,1,1,21,0.02277385561375541
+378,nod-factor receptor 5,1,1,33,0.02277385561375541
+379,immunoglobulin g-binding protein g (domain iii),1,1,7,0.02277385561375541
+358,lysm type receptor kinase,1,1,47,0.02277385561375541
+359,leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 1,1,1,16,0.02277385561375541
+360,426c.wito.tm.sosip,1,1,49,0.02277385561375541
+362,n-acetylneuraminate transporter small subunit,1,1,44,0.02277385561375541
+363,sialic acid trap transporter permease protein siat,1,1,59,0.02277385561375541
+364,zinc metalloproteinase-disintegrin-like ecarin,1,1,19,0.02277385561375541
+365,coagulation factor xii,1,1,49,0.02277385561375541
+366,sodium-coupled monocarboxylate transporter 1,1,1,45,0.02277385561375541
+581,nitric oxide reductase subunit b,1,1,20,0.02277385561375541
+583,envelope glycoprotein o,1,1,36,0.02277385561375541
+585,coagulation factor vii,1,1,38,0.02277385561375541
+587,nitrite extrusion protein 1,1,1,20,0.02277385561375541
+589,"drug transporter, putative",1,1,80,0.02277385561375541
+590,lysozyme-beta-1 adrenergic receptor chimera,1,1,49,0.02277385561375541
+592,calcitonin gene-related peptide type 1 receptor,1,1,38,0.02277385561375541
+593,isoform 2 of protein-serine o-palmitoleoyltransferaseporcupine,1,1,29,0.02277385561375541
+561,"rac-alpha serine/threonine-protein kinase,non-specificserine/threonine protein kinase,rac-alpha serine/threonine-protein kinase",1,1,19,0.02277385561375541
+563,serine incorporator 3,1,1,36,0.02277385561375541
+564,proton-coupled folate transporter,1,1,57,0.02277385561375541
+567,reticulon-4 receptor,1,1,27,0.02277385561375541
+570,torsin-1a-interacting protein 2,1,1,33,0.02277385561375541
+572,nucleoporin nup49,1,1,12,0.02277385561375541
+573,outer capsid protein sigma-1,1,1,39,0.02277385561375541
+579,neuraminidase,1,1,33,0.02277385561375541
+288,synaptic vesicle glycoprotein 2a,1,1,22,0.02277385561375541
+290,nucleoprotein,1,1,29,0.02277385561375541
+550,calcium uniporter,1,1,10,0.02277385561375541
+551,multidrug resistance protein norm,1,1,42,0.02277385561375541
+554,"5-hydroxytryptamine receptor 2b,soluble cytochrome b562chimera",1,1,42,0.02277385561375541
+555,rac-alpha serine/threonine-protein kinase,1,1,23,0.02277385561375541
+557,lysosome membrane protein 2,1,1,31,0.02277385561375541
+558,fusion glycoprotein,1,1,13,0.02277385561375541
+271,cullin-1,1,1,18,0.02277385561375541
+272,fibroblast growth factor receptor 3,1,1,45,0.02277385561375541
+276,anthrax protective antigen,1,1,37,0.02277385561375541
+278,"antiplasmin-cleaving enzyme fap, soluble form",1,1,19,0.02277385561375541
+279,er membrane protein complex subunit 1,1,1,56,0.02277385561375541
+280,envelope glycoprotein gp160,1,1,15,0.02277385561375541
+283,complement c2b fragment,1,1,34,0.02277385561375541
+286,sulfhydryl oxidase 1,1,1,30,0.02277385561375541
+228,cza97.12 sosip.664 envelope glycoprotein gp120,1,1,53,0.02277385561375541
+230,hiv-1 clade ae gp120 core,1,1,14,0.02277385561375541
+232,v1v2 region of hiv-1 on 1fd6 scaffold,1,1,19,0.02277385561375541
+521,dipeptide and tripeptide permease a,1,1,52,0.02277385561375541
+522,sialic acid-binding ig-like lectin 8,1,1,23,0.02277385561375541
+523,sulphate transporter,1,1,36,0.02277385561375541
+524,pyruvate kinase,1,1,36,0.02277385561375541
+525,unknown,1,1,30,0.02277385561375541
+632,rna polymerase sigma factor,1,1,19,0.02277385561375541
+633,preprotein translocase secy subunit,1,1,16,0.02277385561375541
+635,"cannabinoid receptor 1,glycogen synthase",1,1,43,0.02277385561375541
+636,divalent metal cation transporter mnth,1,1,16,0.02277385561375541
+637,uncharacterized protein mj0609,1,1,39,0.02277385561375541
+638,"guanine nucleotide-binding protein g(i)/g(s)/g(o) subunitgamma-2,egt-alpha",1,1,35,0.02277385561375541
+643,mitochondrial import inner membrane translocase subunittim44,1,1,27,0.02277385561375541
+645,"proton/glutamate symporter, sdf family",1,1,44,0.02277385561375541
+613,apolipoprotein l2,1,1,17,0.02277385561375541
+616,leukocyte immunoglobulin-like receptor subfamily b member4,1,1,18,0.02277385561375541
+620,d(1a) dopamine receptor,1,1,57,0.02277385561375541
+621,bcla protein,1,1,24,0.02277385561375541
+623,adic,1,1,27,0.02277385561375541
+625,hypocretin receptor type 2,1,1,41,0.02277385561375541
+626,"d(2) dopamine receptor,soluble cytochrome b562",1,1,34,0.02277385561375541
+630,peroxin-12,1,1,24,0.02277385561375541
+594,avermectin-sensitive glutamate-gated chloride channel gluclalpha,1,1,26,0.02277385561375541
+604,glycine receptor alpha 1,1,1,26,0.02277385561375541
+605,viral attachment protein sigma 1,1,1,4,0.02277385561375541
+606,natural cytotoxicity triggering receptor 3 ligand 1,1,1,33,0.02277385561375541
+607,sodium/alanine symporter agcs,1,1,42,0.02277385561375541
+609,regulator of sigma-e protease rsep,1,1,28,0.02277385561375541
+610,magnesium transporter mgte,1,1,24,0.02277385561375541
+612,dass family sodium-coupled anion symporter,1,1,51,0.02277385561375541
+247,fibroblast growth factor receptor 2,1,1,37,0.02277385561375541
+249,"protein toc75-3, chloroplastic",1,1,36,0.02277385561375541
+252,"protein toc75, chloroplastic",1,1,50,0.02277385561375541
+254,fibroblast growth factor receptor 4,1,1,27,0.02277385561375541
+255,"taste receptor, type 1, member 2a",1,1,43,0.02277385561375541
+258,integrin beta-7,1,1,31,0.02277385561375541
+647,uracil permease,1,1,62,0.02277385561375541
+649,interleukin-13 receptor subunit alpha-1,1,1,31,0.02277385561375541
+262,smoothened homolog,1,1,54,0.02277385561375541
+263,interleukin-17 receptor c,1,1,3,0.02277385561375541
+236,envelope glycoprotein h,1,1,17,0.02277385561375541
+239,nucleoporin nic96,1,1,36,0.02277385561375541
+240,"taste receptor, type 1, member 3",1,1,6,0.02277385561375541
+241,taq dna polymerase,1,1,80,0.02277385561375541
+245,disintegrin and metalloproteinase domain-containing protein17,1,1,22,0.02277385561375541
+246,bdnf/nt-3 growth factors receptor,1,1,20,0.02277385561375541
+542,dipeptide and tripeptide permease b,1,1,50,0.02277385561375541
+543,5-hydroxytryptamine receptor 3a,1,1,33,0.02277385561375541
+544,actin-related protein 4,1,1,19,0.02277385561375541
+545,interferon-gamma receptor alpha chain,1,1,17,0.02277385561375541
+546,dipeptidase 3,1,1,16,0.02277385561375541
+547,coagulation factor x,1,1,48,0.02277385561375541
+548,"prostaglandin e2 receptor ep4 subtype,prostaglandin e2receptor ep4 subtype",1,1,30,0.02277385561375541
+261,furin,1,1,31,0.02277385561375541
+526,il17rb protein,1,1,27,0.02277385561375541
+527,nucleoprotein,1,1,27,0.02277385561375541
+528,fusion protein of neuronal acetylcholine receptor subunitbeta-4 and soluble cytochrome b562,1,1,7,0.02277385561375541
+531,neuraminidase,1,1,53,0.02277385561375541
+533,fascin,1,1,58,0.02277385561375541
+534,gag protein,1,1,36,0.02277385561375541
+535,acetylcholine receptor subunit epsilon,1,1,5,0.02277385561375541
+540,mdm4 protein,1,1,49,0.02277385561375541
+703,signal-regulatory protein gamma,1,1,47,0.02277385561375541
+710,hyalurononglucosaminidase,1,1,12,0.02277385561375541
+711,beta-lactamase,1,1,49,0.02277385561375541
+197,glycoprotein 120,1,1,17,0.02277385561375541
+200,envelope glycoprotein gp160,1,1,55,0.02277385561375541
+475,putative triacylglyceride transporter,1,1,53,0.02277385561375541
+477,bone morphogenetic protein receptor type-1a,1,1,37,0.02277385561375541
+478,intercellular adhesion molecule 1,1,1,37,0.02277385561375541
+691,serum resistance associated; vsg protein,1,1,24,0.02277385561375541
+694,cellular tumor antigen p53,1,1,32,0.02277385561375541
+695,rna-editing complex protein mp42,1,1,31,0.02277385561375541
+696,neuraminidase,1,1,53,0.02277385561375541
+697,envelope glycoprotein d,1,1,45,0.02277385561375541
+698,terminal nucleotidyltransferase 5c,1,1,6,0.02277385561375541
+700,isoform 2 of basigin,1,1,27,0.02277385561375541
+702,na(+)/h(+) antiporter nhaa,1,1,28,0.02277385561375541
+676,major facilitator superfamily multidrug/h+ antiporter mdfafrom e.coli,1,1,34,0.02277385561375541
+679,glycosylated lysosomal membrane protein,1,1,20,0.02277385561375541
+680,bifunctional arginine demethylase and lysyl-hydroxylasejmjd6,1,1,15,0.02277385561375541
+683,v-set and immunoglobulin domain-containing protein 4,1,1,37,0.02277385561375541
+684,alkane 1-monooxygenase,1,1,25,0.02277385561375541
+685,potassium channel subfamily k member 4,1,1,17,0.02277385561375541
+688,izumo sperm-egg fusion protein 1,1,1,25,0.02277385561375541
+689,"proteinase-activated receptor 2,soluble cytochrome b562,proteinase-activated receptor 2",1,1,23,0.02277385561375541
+650,gna2132,1,1,36,0.02277385561375541
+652,"putative trap-type c4-dicarboxylate transport system, largepermease component",1,1,44,0.02277385561375541
+654,chloroquine resistance transporter,1,1,74,0.02277385561375541
+658,synaptotagmin-1,1,1,33,0.02277385561375541
+666,serine protease hepsin,1,1,18,0.02277385561375541
+667,lysosome-associated membrane glycoprotein 1,1,1,36,0.02277385561375541
+669,46 kda surface antigen,1,1,25,0.02277385561375541
+671,putative cell surface polysaccharide polymerase/ligase,1,1,48,0.02277385561375541
+220,gp120 of envelope glycoprotein gp160,1,1,18,0.02277385561375541
+223,envelope glycoprotein gp120,1,1,48,0.02277385561375541
+712,"guanine nucleotide-binding protein g(olf) subunit alpha,guanine nucleotide-binding protein g(s) subunit alpha isoforms short",1,1,38,0.02277385561375541
+716,junctional adhesion molecule-like,1,1,34,0.02277385561375541
+718,sphingosine 1-phosphate receptor 3,1,1,25,0.02277385561375541
+719,interleukin-3 receptor subunit alpha,1,1,23,0.02277385561375541
+721,zinc transporter 7,1,1,26,0.02277385561375541
+722,actin,1,1,62,0.02277385561375541
+515,"solute carrier family 2, facilitated glucose transportermember 5",1,1,22,0.02277385561375541
+517,beta-secretase 1,1,1,29,0.02277385561375541
+520,major capsid protein l1,1,1,32,0.02277385561375541
+201,x16 ufo gp41,1,1,53,0.02277385561375541
+205,hiv-1 clade g strain x2088 gp120,1,1,49,0.02277385561375541
+210,discoidin domain-containing receptor 2,1,1,31,0.02277385561375541
+211,glycoprotein 120,1,1,41,0.02277385561375541
+215,hiv-1 env x18 ufo,1,1,39,0.02277385561375541
+503,envelope glycoprotein gp120,1,1,6,0.02277385561375541
+506,muscarinic acetylcholine receptor m2,1,1,50,0.02277385561375541
+507,hyaluronidase ph-20,1,1,25,0.02277385561375541
+508,activin receptor type-1,1,1,21,0.02277385561375541
+509,light chains of fab fragment of antibody 28f10,1,1,27,0.02277385561375541
+511,calmodulin-domain protein kinase 1,1,1,56,0.02277385561375541
+512,fusion protein of neuronal acetylcholine receptor subunitalpha-3 and soluble cytochrome b562,1,1,29,0.02277385561375541
+514,neuronal acetylcholine receptor subunit beta-2,1,1,41,0.02277385561375541
+480,pc4 and sfrs1-interacting protein,1,1,23,0.02277385561375541
+484,major facilitator superfamily domain containing 2a,1,1,35,0.02277385561375541
+485,acid-sensing ion channel 1,1,1,29,0.02277385561375541
+490,"alkaline phosphatase, tissue-nonspecific isozyme",1,1,37,0.02277385561375541
+494,ubiquitin carboxyl-terminal hydrolase 30,1,1,10,0.02277385561375541
+495,"endolysin,endolysin,beta-1 adrenergic receptor chimera",1,1,53,0.02277385561375541
+497,"adp,atp carrier protein 1",1,1,15,0.02277385561375541
+500,activin receptor type-2a,1,1,42,0.02277385561375541
+776,gt-alpha/gi1-alpha chimera,1,1,36,0.02277385561375541
+777,voltage-dependent l-type calcium channel subunit beta-2,1,1,66,0.02277385561375541
+300,nad(+) hydrolase sarm1,1,1,48,0.02277385561375541
+302,zona pellucida sperm-binding protein 2,1,1,16,0.02277385561375541
+303,nucleolin,1,1,29,0.02277385561375541
+304,"matrix metalloproteinase-9,matrix metalloproteinase-9",1,1,35,0.02277385561375541
+306,sodium- and chloride-dependent glycine transporter 1,1,1,45,0.02277385561375541
+307,carcinoembryonic antigen-related cell adhesion molecule 5,1,1,22,0.02277385561375541
+761,"c-c chemokine receptor type 8, green fluorescent proteinfusion",1,1,27,0.02277385561375541
+762,g-protein coupled receptor homolog us28,1,1,49,0.02277385561375541
+764,atpase get3,1,1,24,0.02277385561375541
+765,carbonic anhydrase 12,1,1,59,0.02277385561375541
+768,thrombopoietin,1,1,30,0.02277385561375541
+772,rod outer segment membrane protein 1,1,1,39,0.02277385561375541
+773,leukocidin a,1,1,8,0.02277385561375541
+774,calcium release-activated calcium channel protein 1,1,1,22,0.02277385561375541
+742,type-2 angiotensin ii receptor,1,1,32,0.02277385561375541
+744,sodium/bile acid cotransporter,1,1,25,0.02277385561375541
+747,site-2 protease,1,1,33,0.02277385561375541
+748,"h-2 class i histocompatibility antigen, d-b alpha chain",1,1,35,0.02277385561375541
+754,phospho-n-acetylmuramoyl-pentapeptide-transferase,1,1,42,0.02277385561375541
+755,"hla class i histocompatibility antigen, alpha chain e",1,1,29,0.02277385561375541
+757,envelope polyprotein,1,1,30,0.02277385561375541
+758,guanine nucleotide-binding protein g(z) subunit alpha,1,1,12,0.02277385561375541
+724,adiponectin receptor protein 1,1,1,18,0.02277385561375541
+726,xk-related protein,1,1,34,0.02277385561375541
+728,fructose-bisphosphate aldolase,1,1,43,0.02277385561375541
+732,"solute carrier family 10 (sodium/bile acid cotransporterfamily), member 1",1,1,24,0.02277385561375541
+733,somatostatin receptor type 2,1,1,12,0.02277385561375541
+735,"h-2 class i histocompatibility antigen, k-b alpha chain",1,1,31,0.02277385561375541
+737,chimera of soluble cytochrome b562 and growth hormonesecretagogue receptor type 1,1,1,19,0.02277385561375541
+741,sgp,1,1,38,0.02277385561375541
+784,merozoite surface protein p12,1,1,32,0.02277385561375541
+785,melanoma-associated antigen b1,1,1,46,0.02277385561375541
+786,ly6/plaur domain-containing protein 3,1,1,34,0.02277385561375541
+787,cyclin-dependent kinase 7,1,1,44,0.02277385561375541
+789,tribbles homolog 2,1,1,25,0.02277385561375541
+791,platelet glycoprotein vi,1,1,31,0.02277385561375541
+792,"soluble cytochrome b562,beta-2 adrenergic receptor,traceamine-associated receptor 1",1,1,4,0.02277385561375541
+793,ubia prenyltransferase domain-containing protein 1,1,1,29,0.02277385561375541
+464,t-complex protein 1 subunit epsilon,1,1,32,0.02277385561375541
+466,neutral amino acid transporter b(0),1,1,65,0.02277385561375541
+471,major merozoite surface protein,1,1,26,0.02277385561375541
+472,interleukin-21 receptor,1,1,23,0.02277385561375541
+780,"guanine nucleotide binding protein, beta polypeptide 1",1,1,15,0.02277385561375541
+781,rhodopsin,1,1,30,0.02277385561375541
+782,isoform 1 of cell surface glycoprotein cd200 receptor 1,1,1,21,0.02277385561375541
+783,avermectin-sensitive glutamate-gated chloride channel gluclalpha,1,1,24,0.02277385561375541
+322,nucleoporin nsp1,1,1,6,0.02277385561375541
+455,nucleoporin nup62,1,1,16,0.02277385561375541
+457,fusion glycoprotein f0,1,1,31,0.02277385561375541
+459,envelope glycoprotein gp120,1,1,24,0.02277385561375541
+460,capsid protein,1,1,38,0.02277385561375541
+461,"dolichyl pyrophosphate man9glcnac2 alpha-1,3-glucosyltransferase",1,1,34,0.02277385561375541
+462,nramp related aluminium transporter,1,1,44,0.02277385561375541
+463,"kinesin light chain 1,torsin-1a",1,1,41,0.02277385561375541
+308,solute carrier organic anion transporter family member 1b3,1,1,31,0.02277385561375541
+310,frizzled-8,1,1,22,0.02277385561375541
+314,kinetochore protein ndc80,1,1,17,0.02277385561375541
+315,subtilisin-like serine protease,1,1,20,0.02277385561375541
+316,chloride channel protein,1,1,21,0.02277385561375541
+317,envelope glycoprotein h,1,1,38,0.02277385561375541
+319,c-mannosyltransferase dpy-19,1,1,16,0.02277385561375541
+320,"tyrosyl-trna synthetase, putative",1,1,56,0.02277385561375541
+816,isoform 2 of brca2 and cdkn1a-interacting protein,1,1,5,0.02277385561375541
+818,circumsporozoite protein,1,1,60,0.02277385561375541
+823,"shiga toxin 2e, subunit a",1,1,7,0.02277385561375541
+824,succinate receptor 1,1,1,37,0.02277385561375541
+825,envelope glycoprotein gp120,1,1,22,0.02277385561375541
+826,protein opg190,1,1,19,0.02277385561375541
+827,mitochondrial adp/atp carrier,1,1,22,0.02277385561375541
+828,t9ss component cytoplasmic membrane protein porm,1,1,33,0.02277385561375541
+183,phosphatidylinositol 3-kinase vps34,1,1,26,0.02277385561375541
+186,tetanus toxin,1,1,41,0.02277385561375541
+187,cne40 sosip envelope glycoprotein gp120,1,1,31,0.02277385561375541
+189,envelope glycoprotein gp160,1,1,30,0.02277385561375541
+190,phosphodiesterase 5/6 chimera catalytic domain,1,1,10,0.02277385561375541
+191,leukocyte tyrosine kinase receptor,1,1,36,0.02277385561375541
+194,gp41 ectodomain of envelope glycoprotein gp160,1,1,22,0.02277385561375541
+811,glycoprotein vp7,1,1,14,0.02277385561375541
+809,hemagglutinin,1,1,11,0.02277385561375541
+163,band 3 anion transport protein,1,1,31,0.02277385561375541
+172,chromodomain-helicase-dna-binding protein 1-like,1,1,57,0.02277385561375541
+173,iron-regulated surface determinant protein h,1,1,29,0.02277385561375541
+174,3-hydroxy-3-methylglutaryl-coenzyme a reductase,1,1,12,0.02277385561375541
+176,bifunctional heparan sulfate n-deacetylase/n-sulfotransferase 1,1,1,51,0.02277385561375541
+178,phosphatidylglycerol lysyltransferase,1,1,21,0.02277385561375541
+182,adp-ribosylating binary toxin binding subunit cdtb,1,1,24,0.02277385561375541
+794,26s proteasome regulatory subunit rpn8,1,1,10,0.02277385561375541
+796,major surface antigen p30,1,1,29,0.02277385561375541
+800,torsin-1a,1,1,22,0.02277385561375541
+801,"soluble cytochrome b562,melanocortin receptor 4,redfluorescent protein drfp583",1,1,51,0.02277385561375541
+803,"induced myeloid leukemia cell differentiation protein mcl-1homolog,induced myeloid leukemia cell differentiation protein mcl-1",1,1,34,0.02277385561375541
+805,polymerase cofactor vp35,1,1,11,0.02277385561375541
+806,sialic acid-binding ig-like lectin 15,1,1,18,0.02277385561375541
+808,nucleoporin nup57,1,1,22,0.02277385561375541
+131,atrial natriuretic peptide receptor 1,1,1,25,0.02277385561375541
+417,hemagglutinin,1,1,36,0.02277385561375541
+420,hemagglutinin ha2 chain,1,1,36,0.02277385561375541
+423,hemagglutinin,1,1,26,0.02277385561375541
+424,frizzled-2,1,1,26,0.02277385561375541
+427,wlab protein,1,1,47,0.02277385561375541
+428,apical merozoite antigen 1,1,1,39,0.02277385561375541
+432,tudor and kh domain-containing protein,1,1,46,0.02277385561375541
+865,licb protein,1,1,16,0.02277385561375541
+866,asialoglycoprotein receptor 1,1,1,29,0.02277385561375541
+870,t18.1 major pilin backbone protein t-antigen,1,1,27,0.02277385561375541
+873,alpha-ketoglutarate-dependent dioxygenase alkb homolog 3,1,1,21,0.02277385561375541
+874,k88 fimbrial protein ad,1,1,25,0.02277385561375541
+875,hbc599 membrane protein binder,1,1,20,0.02277385561375541
+128,guanylyl cyclase c,1,1,13,0.02277385561375541
+129,e3 ubiquitin-protein ligase rnf31,1,1,72,0.02277385561375541
+853,hemagglutinin,1,1,35,0.02277385561375541
+856,outer surface protein b,1,1,21,0.02277385561375541
+857,cadmium and zinc efflux pump fief,1,1,40,0.02277385561375541
+860,type vi secretion protein icmf,1,1,30,0.02277385561375541
+861,hemagglutinin,1,1,36,0.02277385561375541
+862,tetraspanin-15,1,1,23,0.02277385561375541
+863,type iii secretion system protein,1,1,23,0.02277385561375541
+864,kallikrein-5,1,1,17,0.02277385561375541
+830,epithelial cell adhesion molecule,1,1,28,0.02277385561375541
+832,asialoglycoprotein receptor 2,1,1,28,0.02277385561375541
+834,low affinity immunoglobulin gamma fc region receptor ii-b,1,1,30,0.02277385561375541
+838,leukocidin e,1,1,8,0.02277385561375541
+839,26s proteasome regulatory subunit rpn11,1,1,40,0.02277385561375541
+840,der f 1 variant,1,1,30,0.02277385561375541
+844,e3 ubiquitin-protein ligase chip,1,1,15,0.02277385561375541
+846,icos ligand,1,1,38,0.02277385561375541
+156,envelope glycoprotein b,1,1,39,0.02277385561375541
+157,neuropilin-2,1,1,26,0.02277385561375541
+158,"ectonucleotide pyrophosphatase/phosphodiesterase familymember 1, secreted form, immunoglobulin gamma-1 heavy chain fusion",1,1,49,0.02277385561375541
+159,neuropilin-1,1,1,12,0.02277385561375541
+160,calcium-transporting atpase type 2c member 1,1,1,70,0.02277385561375541
+161,"envelope glycoprotein b,envelope glycoprotein b",1,1,19,0.02277385561375541
+876,tumor necrosis factor ligand superfamily member 13b,1,1,32,0.02277385561375541
+877,cd320 antigen,1,1,14,0.02277385561375541
+298,solute carrier family 15 member 2,1,1,40,0.02277385561375541
+139,integrin alpha4 subunit,1,1,39,0.02277385561375541
+140,beta-galactosidase,1,1,46,0.02277385561375541
+146,sodium/calcium exchanger 1,1,1,46,0.02277385561375541
+147,macrophage colony-stimulating factor 1 receptor,1,1,28,0.02277385561375541
+148,surface protein p113,1,1,27,0.02277385561375541
+154,inactive tyrosine-protein kinase transmembrane receptorror1,1,1,32,0.02277385561375541
+155,complement component c6,1,1,26,0.02277385561375541
+449,interleukin-2 receptor subunit beta,1,1,35,0.02277385561375541
+450,solute carrier family 22 member 6,1,1,37,0.02277385561375541
+451,"maltodextrin-binding protein,pou domain, class 5,transcription factor 1",1,1,4,0.02277385561375541
+291,nucleoprotein,1,1,35,0.02277385561375541
+292,nucleoprotein,1,1,39,0.02277385561375541
+294,melanotransferrin,1,1,32,0.02277385561375541
+296,capsid protein vp1,1,1,16,0.02277385561375541
+297,two pore calcium channel protein 1,1,1,37,0.02277385561375541
+434,hemagglutinin,1,1,28,0.02277385561375541
+436,muellerian-inhibiting factor,1,1,25,0.02277385561375541
+437,clumping factor a,1,1,32,0.02277385561375541
+440,toxin b,1,1,29,0.02277385561375541
+441,interferon alpha/beta receptor 1,1,1,26,0.02277385561375541
+442,envelope glycoprotein gp120,1,1,14,0.02277385561375541
+445,solute carrier family 22 member 1,1,1,52,0.02277385561375541
+447,hemagglutinin ha1 chain,1,1,40,0.02277385561375541
+931,tumor necrosis factor ligand superfamily member 12,1,1,23,0.02277385561375541
+932,t-cell surface glycoprotein cd8 alpha chain,1,1,28,0.02277385561375541
+933,ul16-binding protein 6,1,1,33,0.02277385561375541
+934,myelin oligodendrocyte glycoprotein,1,1,27,0.02277385561375541
+935,complement c1q subcomponent subunit c,1,1,14,0.02277385561375541
+937,interleukin-27 subunit alpha,1,1,39,0.02277385561375541
+939,platelet-derived growth factor subunit b,1,1,16,0.02277385561375541
+940,general secretion pathway protein gspd,1,1,57,0.02277385561375541
+915,heliorhodopsin,1,1,14,0.02277385561375541
+916,cytolethal distending toxin subunit b,1,1,33,0.02277385561375541
+919,microfibril-associated glycoprotein 4,1,1,32,0.02277385561375541
+921,envelope glycoprotein e,1,1,40,0.02277385561375541
+923,low affinity immunoglobulin gamma fc region receptor iii-a,1,1,35,0.02277385561375541
+924,hemagglutinin,1,1,5,0.02277385561375541
+927,complement c1q subcomponent subunit b,1,1,34,0.02277385561375541
+928,nucleoprotein,1,1,33,0.02277385561375541
+899,vitamin b12-binding protein,1,1,62,0.02277385561375541
+902,c-type lectin domain family 12 member a,1,1,21,0.02277385561375541
+903,"putative cobalt abc transporter, permease protein",1,1,7,0.02277385561375541
+905,receptor binding protein,1,1,32,0.02277385561375541
+906,cd40 ligand,1,1,33,0.02277385561375541
+912,carbonic anhydrase,1,1,27,0.02277385561375541
+913,"ion transport protein,voltage-gated sodium channel",1,1,17,0.02277385561375541
+914,neurotrophin-3,1,1,6,0.02277385561375541
+878,energy-coupling factor transporter atp-binding proteinecfa1,1,1,37,0.02277385561375541
+879,tumor necrosis factor ligand superfamily member 10,1,1,8,0.02277385561375541
+880,lipoprotein gna1870,1,1,29,0.02277385561375541
+881,protein vsig4,1,1,39,0.02277385561375541
+889,factor h-binding protein,1,1,22,0.02277385561375541
+893,"ras and a-factor converting enzyme 1, rce1",1,1,48,0.02277385561375541
+895,anti-platelet aggregation protein,1,1,22,0.02277385561375541
+897,neutrophil elastase,1,1,44,0.02277385561375541
+958,transmembrane protein gp41,1,1,30,0.02277385561375541
+960,26s proteasome non-atpase regulatory subunit 10,1,1,36,0.02277385561375541
+965,protein myomaker,1,1,15,0.02277385561375541
+336,tudor domain-containing protein 3,1,1,24,0.02277385561375541
+337,atp-binding cassette sub-family g member 5,1,1,5,0.02277385561375541
+338,cell surface glycoprotein muc18,1,1,25,0.02277385561375541
+341,pro-secreted protein orf2,1,1,27,0.02277385561375541
+342,trans-sialidase,1,1,30,0.02277385561375541
+944,type ii secretion system protein d,1,1,29,0.02277385561375541
+946,capsid protein,1,1,34,0.02277385561375541
+948,capsid protein vp3,1,1,4,0.02277385561375541
+950,"type ii secretory pathway, pseudopilin epsj",1,1,39,0.02277385561375541
+952,staphylococcal nuclease,1,1,28,0.02277385561375541
+953,aquaporin z,1,1,6,0.02277385561375541
+954,spike glycoprotein,1,1,34,0.02277385561375541
+957,interleukin-27 subunit beta,1,1,57,0.02277385561375541
+115,leptin receptor,1,1,48,0.02277385561375541
+119,envelope polyprotein,1,1,24,0.02277385561375541
+122,angiopoietin-1 receptor,1,1,27,0.02277385561375541
+123,grapevine fanleaf virus,1,1,43,0.02277385561375541
+124,"phosphatidylinositol 4,5-bisphosphate 3-kinase catalyticsubunit gamma isoform",1,1,62,0.02277385561375541
+126,extracellular calcium-sensing receptor,1,1,40,0.02277385561375541
+941,megakaryocyte and platelet inhibitory receptor g6b,1,1,22,0.02277385561375541
+943,"manganese abc transporter, atp-binding protein",1,1,39,0.02277385561375541
+99,e2 glycoprotein,1,1,19,0.02277385561375541
+102,e2 glycoprotein,1,1,18,0.02277385561375541
+104,complement factor h,1,1,23,0.02277385561375541
+105,bifunctional hemolysin-adenylate cyclase,1,1,37,0.02277385561375541
+106,protein jagged-1,1,1,27,0.02277385561375541
+107,metabotropic glutamate receptor 5,1,1,42,0.02277385561375541
+110,metabotropic glutamate receptor 1,1,1,41,0.02277385561375541
+114,leptin receptor,1,1,27,0.02277385561375541
+984,membrane protein tric,1,1,49,0.02277385561375541
+986,capsid protein vp0,1,1,3,0.02277385561375541
+988,tudor-interacting repair regulator protein,1,1,33,0.02277385561375541
+991,protein nef,1,1,32,0.02277385561375541
+992,hemagglutinin ha2,1,1,21,0.02277385561375541
+993,claudin-4,1,1,35,0.02277385561375541
+994,envelope glycoprotein gp120,1,1,16,0.02277385561375541
+995,envelope glycoprotein ul130,1,1,14,0.02277385561375541
+969,ookinete surface protein pvs25,1,1,33,0.02277385561375541
+971,nkg2-d type ii integral membrane protein,1,1,25,0.02277385561375541
+973,fibroblast growth factor 19,1,1,18,0.02277385561375541
+974,ubiquinol-cytochrome c reductase iron-sulfursubunit,1,1,32,0.02277385561375541
+977,t-cell surface glycoprotein cd8 beta chain,1,1,33,0.02277385561375541
+979,kinetochore protein spc24,1,1,16,0.02277385561375541
+981,a/af/72 vp1,1,1,4,0.02277385561375541
+982,immunoglobulin omega chain,1,1,51,0.02277385561375541
+395,multidrug resistance abc transporter atp-binding andpermease protein,1,1,44,0.02277385561375541
+400,interleukin-1 receptor-like 2,1,1,30,0.02277385561375541
+402,"serine/threonine-protein kinase pink1, putative",1,1,44,0.02277385561375541
+407,fusion glycoprotein f0,1,1,75,0.02277385561375541
+411,abc transporter atp-binding protein,1,1,14,0.02277385561375541
+414,natural resistance-associated macrophage protein 2,1,1,43,0.02277385561375541
+966,t-cell costimulatory molecule cd28,1,1,24,0.02277385561375541
+968,spike protein s1,1,1,38,0.02277385561375541
+347,neuronal acetylcholine receptor subunit alpha-4,1,1,5,0.02277385561375541
+349,kelch-like ech-associated protein 1,1,1,60,0.02277385561375541
+351,interleukin-27 receptor subunit alpha,1,1,15,0.02277385561375541
+353,prolactin receptor,1,1,49,0.02277385561375541
+389,vhh domain bs-1,1,1,30,0.02277385561375541
+392,solute carrier family 15 member 4,1,1,31,0.02277385561375541
+393,drug abc transporter atp-binding protein,1,1,49,0.02277385561375541
+394,glypican-2,1,1,37,0.02277385561375541
+1033,disulfide bond formation protein b,1,1,14,0.02277385561375541
+1034,major structural protein 1,1,1,25,0.02277385561375541
+1035,major allergen can f 1,1,1,30,0.02277385561375541
+1036,myeloid-derived growth factor,1,1,31,0.02277385561375541
+1037,n15 alpha-beta t-cell receptor,1,1,17,0.02277385561375541
+1040,"putative trap-type c4-dicarboxylate transport system, smallpermease component",1,1,17,0.02277385561375541
+1137,circumsporozoite protein,1,1,24,0.02277385561375541
+1138,nedd8,1,1,16,0.02277385561375541
+1020,v-type atp synthase subunit e,1,1,13,0.02277385561375541
+1023,gremlin-1,1,1,16,0.02277385561375541
+1024,cell traversal protein for ookinetes and sporozoites,1,1,15,0.02277385561375541
+1027,hemagglutinin ha2 chain,1,1,22,0.02277385561375541
+1029,insulin-like growth factor ii,1,1,33,0.02277385561375541
+1030,interleukin-22,1,1,28,0.02277385561375541
+1031,interleukin-10,1,1,26,0.02277385561375541
+1032,beta-lactoglobulin,1,1,29,0.02277385561375541
+1007,inducible t-cell costimulator,1,1,23,0.02277385561375541
+1008,protein mj0480,1,1,23,0.02277385561375541
+1010,rho-related gtp-binding protein rhob,1,1,34,0.02277385561375541
+1011,pv cell-traversal protein,1,1,33,0.02277385561375541
+1012,apoptosis-associated speck-like protein containing a card,1,1,12,0.02277385561375541
+1014,rhoa,1,1,34,0.02277385561375541
+1015,apoptosis regulator bax,1,1,34,0.02277385561375541
+1019,t-cell surface glycoprotein cd3 epsilon chain,1,1,23,0.02277385561375541
+996,vascular endothelial growth factor b,1,1,29,0.02277385561375541
+998,lymphotoxin-alpha,1,1,31,0.02277385561375541
+999,myosin a tail domain interacting protein,1,1,21,0.02277385561375541
+1001,lexa repressor,1,1,58,0.02277385561375541
+1002,leukemia inhibitory factor,1,1,34,0.02277385561375541
+1004,plasma retinol-binding protein,1,1,28,0.02277385561375541
+1005,natural cytotoxicity triggering receptor 3,1,1,32,0.02277385561375541
+1006,neutrophil gelatinase-associated lipocalin,1,1,11,0.02277385561375541
+1141,v-type proton atpase subunit e,1,1,4,0.02277385561375541
+1142,long neurotoxin 2,1,1,25,0.02277385561375541
+1143,alpha-elapitoxin-dpp2d,1,1,19,0.02277385561375541
+1144,long neurotoxin 1,1,1,21,0.02277385561375541
+1145,c-x-c motif chemokine 7,1,1,32,0.02277385561375541
+3,"erythrocyte membrane protein 1, pfemp1",1,1,20,0.02277385561375541
+1147,"guanine nucleotide-binding protein g(i) subunit alpha-1,guanine nucleotide-binding protein subunit alpha-11",1,1,7,0.02277385561375541
+1129,specialized acyl carrier protein,1,1,20,0.02277385561375541
+14,e3 sumo-protein ligase ranbp2,1,1,43,0.02277385561375541
+1098,guinea fowl lysozyme,1,1,35,0.02277385561375541
+1101,mitochondrial pyruvate carrier 2,1,1,33,0.02277385561375541
+1103,histone h2a,1,1,27,0.02277385561375541
+1104,phage repressor protein ci,1,1,27,0.02277385561375541
+1105,histone h2b,1,1,18,0.02277385561375541
+1139,polcalcin phl p 7,1,1,29,0.02277385561375541
+1140,guanine nucleotide-binding protein g(t) subunit gamma-t1,1,1,4,0.02277385561375541
+1052,"putative zinc metalloprotease aq_1964,pa14 from podoplanin,putative zinc metalloprotease aq_1964",1,1,13,0.02277385561375541
+1053,interleukin 15,1,1,34,0.02277385561375541
+1058,envelope glycoprotein l,1,1,17,0.02277385561375541
+1061,thymic stromal lymphopoietin,1,1,24,0.02277385561375541
+1062,lmo-2,1,1,53,0.02277385561375541
+1092,histone h2a.1,1,1,25,0.02277385561375541
+1093,histone h2b.1,1,1,17,0.02277385561375541
+1094,profilin-2,1,1,22,0.02277385561375541
+90,immunoglobulin a1 protease,1,1,35,0.02277385561375541
+93,retinol-binding protein 3,1,1,22,0.02277385561375541
+95,multidrug resistance protein 1a,1,1,42,0.02277385561375541
+1041,styrene oxide isomerase,1,1,26,0.02277385561375541
+1043,interferon alpha-1/13,1,1,35,0.02277385561375541
+1045,cofilin-1,1,1,29,0.02277385561375541
+1046,envelope protein,1,1,37,0.02277385561375541
+1049,v-type proton atpase subunit c',1,1,6,0.02277385561375541
+1080,tcda,1,1,18,0.02277385561375541
+1083,interleukin-9,1,1,20,0.02277385561375541
+1085,hemoglobin subunit alpha,1,1,14,0.02277385561375541
+1086,histone h3-like centromeric protein a,1,1,6,0.02277385561375541
+1089,kb5-c20 t-cell antigen receptor,1,1,21,0.02277385561375541
+1090,histone h3.1,1,1,7,0.02277385561375541
+269,vp2 of b19 parvovirus,1,1,26,0.02277385561375541
+270,envelope protein domain iii,1,1,25,0.02277385561375541
+55,complement c3,1,1,29,0.02277385561375541
+57,"6-deoxyerythronolide-b synthase erya2, modules 3 and 4,lsd14 polyketide synthase fusion",1,1,25,0.02277385561375541
+58,adhesin p1,1,1,38,0.02277385561375541
+59,alk tyrosine kinase receptor,1,1,36,0.02277385561375541
+1074,angiogenin,1,1,18,0.02277385561375541
+1075,hemoglobin subunit beta,1,1,30,0.02277385561375541
+1076,nitric oxide reductase subunit c,1,1,15,0.02277385561375541
+1078,gonadotrophin beta subunit,1,1,14,0.02277385561375541
+1069,ninjurin-1,1,1,18,0.02277385561375541
+1072,receptor activity-modifying protein 1,1,1,18,0.02277385561375541
+32,methyltransferase domain of the l protein,1,1,33,0.02277385561375541
+34,genome polyprotein,1,1,22,0.02277385561375541
+39,vp1,1,1,35,0.02277385561375541
+43,vp1,1,1,16,0.02277385561375541
+46,nav1.7 vsd2-navab chimera,1,1,6,0.02277385561375541
+47,nuclear pore complex protein nup98-nup96,1,1,37,0.02277385561375541
+1130,long neurotoxin 1,1,1,26,0.02277385561375541
+1131,shiga-like toxin 2 subunit b,1,1,33,0.02277385561375541
+1132,"shiga toxin 2e, subunit b",1,1,33,0.02277385561375541
+1134,histidine-containing protein,1,1,21,0.02277385561375541
+1135,alpha-mammal toxin aah2,1,1,23,0.02277385561375541
+1065,superoxide dismutase [cu-zn],1,1,14,0.02277385561375541
+1066,interleukin-4,1,1,22,0.02277385561375541
+1068,interleukin-1 family member 10,1,1,40,0.02277385561375541

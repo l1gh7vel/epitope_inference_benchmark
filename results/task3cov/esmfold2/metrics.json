@@ -1,0 +1,91 @@
+{
+  "task": "task3cov",
+  "variant": "contact_top",
+  "method": "ESMFold2",
+  "n": 300,
+  "bins": [
+    "NTD",
+    "RBD",
+    "S2"
+  ],
+  "accuracy": 0.38666666666666666,
+  "macro_recall": 0.3866666666666667,
+  "random_macro_recall": 0.33770000000000006,
+  "kappa": 0.08,
+  "mcc": 0.0867772878239476,
+  "top2": 0.6733333333333333,
+  "mean_rank_true": 1.94,
+  "rankbis_mean": 0.0858981547867639,
+  "rankbis_median": 0.01684406157474616,
+  "floor_majority": 0.3333333333333333,
+  "floor_majority_bin": "NTD",
+  "floor_random": 0.33231666666666665,
+  "floor_uniform": 0.3333333333333333,
+  "chance_agreement": 0.3333333333333333,
+  "perm_p": 0.0239880059970015,
+  "perm_z": 2.055551108260446,
+  "perm_null_mean": 0.3326533333333333,
+  "n_predicted_per_bin": {
+    "NTD": 177,
+    "RBD": 69,
+    "S2": 54
+  },
+  "per_bin": [
+    {
+      "bin": "NTD",
+      "n": 100,
+      "recall": 0.68,
+      "random_recall": 0.34455,
+      "precision": 0.384180790960452,
+      "tp": 68,
+      "n_predicted": 177,
+      "f1": 0.49097472924187724,
+      "rankbis": 0.5190423404777773,
+      "below_random": false,
+      "trimer_dependent": false
+    },
+    {
+      "bin": "RBD",
+      "n": 100,
+      "recall": 0.28,
+      "random_recall": 0.36425,
+      "precision": 0.4057971014492754,
+      "tp": 28,
+      "n_predicted": 69,
+      "f1": 0.33136094674556216,
+      "rankbis": -0.03159863335468716,
+      "below_random": true,
+      "trimer_dependent": false
+    },
+    {
+      "bin": "S2",
+      "n": 100,
+      "recall": 0.2,
+      "random_recall": 0.3043,
+      "precision": 0.37037037037037035,
+      "tp": 20,
+      "n_predicted": 54,
+      "f1": 0.2597402597402597,
+      "rankbis": -0.22974924276279854,
+      "below_random": true,
+      "trimer_dependent": false
+    }
+  ],
+  "confusion": {
+    "NTD": {
+      "NTD": 68,
+      "RBD": 13,
+      "S2": 19
+    },
+    "RBD": {
+      "NTD": 57,
+      "RBD": 28,
+      "S2": 15
+    },
+    "S2": {
+      "NTD": 52,
+      "RBD": 28,
+      "S2": 20
+    }
+  }
+}

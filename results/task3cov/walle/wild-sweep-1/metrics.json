@@ -1,0 +1,91 @@
+{
+  "task": "task3cov",
+  "variant": "walle_score",
+  "method": "WALLE wild-sweep-1",
+  "n": 300,
+  "bins": [
+    "NTD",
+    "RBD",
+    "S2"
+  ],
+  "accuracy": 0.35333333333333333,
+  "macro_recall": 0.35333333333333333,
+  "random_macro_recall": 0.33770000000000006,
+  "kappa": 0.030000000000000023,
+  "mcc": 0.05786734435200878,
+  "top2": 0.6633333333333333,
+  "mean_rank_true": 1.9833333333333334,
+  "rankbis_mean": 0.13249042073635317,
+  "rankbis_median": 0.338278317606202,
+  "floor_majority": 0.3333333333333333,
+  "floor_majority_bin": "NTD",
+  "floor_random": 0.33231666666666665,
+  "floor_uniform": 0.3333333333333333,
+  "chance_agreement": 0.3333333333333333,
+  "perm_p": 0.09845077461269365,
+  "perm_z": 1.413502579752835,
+  "perm_null_mean": 0.3335966666666667,
+  "n_predicted_per_bin": {
+    "NTD": 17,
+    "RBD": 271,
+    "S2": 12
+  },
+  "per_bin": [
+    {
+      "bin": "NTD",
+      "n": 100,
+      "recall": 0.09,
+      "random_recall": 0.34455,
+      "precision": 0.5294117647058824,
+      "tp": 9,
+      "n_predicted": 17,
+      "f1": 0.15384615384615385,
+      "rankbis": 0.337049075665626,
+      "below_random": true,
+      "trimer_dependent": false
+    },
+    {
+      "bin": "RBD",
+      "n": 100,
+      "recall": 0.96,
+      "random_recall": 0.36425,
+      "precision": 0.35424354243542433,
+      "tp": 96,
+      "n_predicted": 271,
+      "f1": 0.5175202156334231,
+      "rankbis": 0.5840070467648942,
+      "below_random": false,
+      "trimer_dependent": false
+    },
+    {
+      "bin": "S2",
+      "n": 100,
+      "recall": 0.01,
+      "random_recall": 0.3043,
+      "precision": 0.08333333333333333,
+      "tp": 1,
+      "n_predicted": 12,
+      "f1": 0.017857142857142856,
+      "rankbis": -0.5235848602214608,
+      "below_random": true,
+      "trimer_dependent": false
+    }
+  ],
+  "confusion": {
+    "NTD": {
+      "NTD": 9,
+      "RBD": 82,
+      "S2": 9
+    },
+    "RBD": {
+      "NTD": 2,
+      "RBD": 96,
+      "S2": 2
+    },
+    "S2": {
+      "NTD": 6,
+      "RBD": 93,
+      "S2": 1
+    }
+  }
+}

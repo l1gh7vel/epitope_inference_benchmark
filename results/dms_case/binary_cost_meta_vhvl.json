@@ -1,0 +1,53 @@
+{
+  "task": "dms",
+  "antigen": "HIV-1 Env",
+  "antigen_len": 856,
+  "chain_arm": "vhvl",
+  "escape_stat": "mean",
+  "escape_statistic": "mean over the mutations at a site of the Dingens 2019 avgfracsurvive",
+  "target_set": "escape",
+  "target_set_definition": "Dingens et al. gamma-tail FDR 0.01 significant-site call",
+  "ks": [
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    40,
+    50,
+    60,
+    80,
+    100,
+    125,
+    150,
+    200,
+    250,
+    300,
+    400
+  ],
+  "n_random": 400,
+  "seed": 0,
+  "walle_source": "af3",
+  "walle_checkpoint": "treasured-sweep-8",
+  "walle_variant": "task1",
+  "antibodies": [
+    "10-1074",
+    "10E8",
+    "3BNC117",
+    "PG9",
+    "PGT121",
+    "PGT145",
+    "PGT151",
+    "VRC01",
+    "VRC34"
+  ],
+  "methods": [
+    "AlphaFold3",
+    "BepiPred-3.0",
+    "ESMFold2",
+    "Random",
+    "WALLE"
+  ],
+  "without_gold": []
+}

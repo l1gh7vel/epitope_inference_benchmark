@@ -1,0 +1,708 @@
+{
+  "VRC01": {
+    "pdb": "3NGB",
+    "resolution": 2.68,
+    "epitope_class": "CD4bs",
+    "construct": "gp120 core, 93TH057 (clade A/E)",
+    "cutoff": 4.5,
+    "span": [
+      1,
+      856
+    ],
+    "env_chain_identity": {
+      "G": 0.744,
+      "A": 0.739,
+      "D": 0.74,
+      "I": 0.739
+    },
+    "fab_copy_used": [
+      "H",
+      "L"
+    ],
+    "copy_epitope_sizes": [
+      49,
+      44,
+      41,
+      37
+    ],
+    "n_direct": 49,
+    "n_glycan_only": 0,
+    "n_gold": 49,
+    "gold": [
+      97,
+      120,
+      122,
+      124,
+      198,
+      199,
+      205,
+      206,
+      276,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      327,
+      340,
+      343,
+      365,
+      366,
+      367,
+      368,
+      371,
+      405,
+      406,
+      408,
+      423,
+      430,
+      432,
+      433,
+      434,
+      437,
+      438,
+      439,
+      440,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      463,
+      465,
+      466,
+      467,
+      469,
+      472,
+      473
+    ],
+    "glycan_sites": [
+      276
+    ],
+    "caveat": null,
+    "crosscheck_of": null
+  },
+  "3BNC117": {
+    "pdb": "4JPV",
+    "resolution": 2.83,
+    "epitope_class": "CD4bs",
+    "construct": "gp120 core, 93TH057 with loop D/V5 swapped",
+    "cutoff": 4.5,
+    "span": [
+      1,
+      856
+    ],
+    "env_chain_identity": {
+      "G": 0.757
+    },
+    "fab_copy_used": [
+      "H",
+      "L"
+    ],
+    "copy_epitope_sizes": [
+      29
+    ],
+    "n_direct": 29,
+    "n_glycan_only": 0,
+    "n_gold": 29,
+    "gold": [
+      122,
+      124,
+      198,
+      275,
+      276,
+      278,
+      279,
+      280,
+      281,
+      282,
+      357,
+      365,
+      366,
+      367,
+      368,
+      371,
+      429,
+      430,
+      431,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      469,
+      472,
+      473
+    ],
+    "glycan_sites": [
+      276
+    ],
+    "caveat": "monomeric core: the adjacent-protomer V3 contacts reported for 3BNC117 cannot form in this construct.",
+    "crosscheck_of": null
+  },
+  "10-1074": {
+    "pdb": "6CCB",
+    "resolution": 6.5,
+    "epitope_class": "V3-glycan",
+    "construct": "253-11 SOSIP trimer",
+    "cutoff": 4.5,
+    "span": [
+      1,
+      856
+    ],
+    "env_chain_identity": {
+      "C": 0.747,
+      "G": 0.747,
+      "A": 0.786,
+      "B": 0.786
+    },
+    "fab_copy_used": [
+      "H",
+      "L"
+    ],
+    "copy_epitope_sizes": [
+      14,
+      13
+    ],
+    "n_direct": 12,
+    "n_glycan_only": 2,
+    "n_gold": 14,
+    "gold": [
+      299,
+      301,
+      321,
+      322,
+      323,
+      324,
+      325,
+      327,
+      328,
+      329,
+      330,
+      332,
+      415,
+      417
+    ],
+    "glycan_sites": [
+      301,
+      332
+    ],
+    "caveat": "6.5 A: side-chain placement is unreliable at this resolution; 6UDJ at 2.5 A is carried as a cross-check.",
+    "crosscheck_of": null
+  },
+  "PGT121": {
+    "pdb": "4TVP",
+    "resolution": 3.1,
+    "epitope_class": "V3-glycan",
+    "construct": "BG505 SOSIP.664 + PGT122",
+    "cutoff": 4.5,
+    "span": [
+      1,
+      856
+    ],
+    "env_chain_identity": {
+      "G": 0.75,
+      "B": 0.802
+    },
+    "fab_copy_used": [
+      "H",
+      "L"
+    ],
+    "copy_epitope_sizes": [
+      14
+    ],
+    "n_direct": 13,
+    "n_glycan_only": 1,
+    "n_gold": 14,
+    "gold": [
+      135,
+      136,
+      137,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      330,
+      332,
+      415,
+      417
+    ],
+    "glycan_sites": [
+      137,
+      332
+    ],
+    "caveat": "the deposited Fab is PGT122, the clonal relative of PGT121; no PGT121-Env complex is deposited.",
+    "crosscheck_of": null
+  },
+  "PGT151": {
+    "pdb": "6DCQ",
+    "resolution": 3.1,
+    "epitope_class": "gp120-gp41 interface",
+    "construct": "full-length Env PC64M18C043",
+    "cutoff": 4.5,
+    "span": [
+      1,
+      856
+    ],
+    "env_chain_identity": {
+      "A": 0.718,
+      "B": 0.811,
+      "C": 0.723,
+      "D": 0.815,
+      "E": 0.724,
+      "F": 0.806
+    },
+    "fab_copy_used": [
+      "M",
+      "N"
+    ],
+    "copy_epitope_sizes": [
+      34,
+      27
+    ],
+    "n_direct": 32,
+    "n_glycan_only": 2,
+    "n_gold": 34,
+    "gold": [
+      58,
+      59,
+      60,
+      77,
+      78,
+      79,
+      82,
+      83,
+      84,
+      244,
+      245,
+      246,
+      262,
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      538,
+      542,
+      543,
+      611,
+      637,
+      638,
+      640,
+      641,
+      644,
+      647
+    ],
+    "glycan_sites": [
+      262,
+      611,
+      637
+    ],
+    "caveat": null,
+    "crosscheck_of": null
+  },
+  "PG9": {
+    "pdb": "3U2S",
+    "resolution": 1.8,
+    "epitope_class": "V1V2 apex",
+    "construct": "V1V2 of ZM109 on a 1FD6 scaffold",
+    "cutoff": 4.5,
+    "span": [
+      118,
+      200
+    ],
+    "env_chain_identity": {
+      "C": 0.431,
+      "G": 0.44
+    },
+    "fab_copy_used": [
+      "A",
+      "B"
+    ],
+    "copy_epitope_sizes": [
+      14,
+      14
+    ],
+    "n_direct": 14,
+    "n_glycan_only": 0,
+    "n_gold": 14,
+    "gold": [
+      157,
+      158,
+      159,
+      160,
+      162,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174
+    ],
+    "glycan_sites": [
+      160,
+      173
+    ],
+    "caveat": "scaffolded V1V2, not a trimer; residues >200 are scaffold and are excluded by `span`. V1V2 is also where HXB2 mapping is least certain.",
+    "crosscheck_of": null
+  },
+  "10E8": {
+    "pdb": "4G6F",
+    "resolution": 2.1,
+    "epitope_class": "MPER",
+    "construct": "gp41 MPER peptide (656-683)",
+    "cutoff": 4.5,
+    "span": [
+      1,
+      856
+    ],
+    "env_chain_identity": {
+      "P": 0.897,
+      "F": 0.852
+    },
+    "fab_copy_used": [
+      "H",
+      "L"
+    ],
+    "copy_epitope_sizes": [
+      13,
+      12
+    ],
+    "n_direct": 13,
+    "n_glycan_only": 0,
+    "n_gold": 13,
+    "gold": [
+      665,
+      668,
+      669,
+      670,
+      671,
+      672,
+      673,
+      676,
+      677,
+      679,
+      680,
+      682,
+      683
+    ],
+    "glycan_sites": [],
+    "caveat": "isolated peptide, so only MPER could ever be contacted; the gold epitope is complete for MPER but cannot include anything outside it.",
+    "crosscheck_of": null
+  },
+  "PGT145": {
+    "pdb": "5V8L",
+    "resolution": 4.3,
+    "epitope_class": "V1V2 apex",
+    "construct": "BG505 SOSIP.664 trimer apex",
+    "cutoff": 4.5,
+    "span": [
+      1,
+      856
+    ],
+    "env_chain_identity": {
+      "A": 0.757,
+      "B": 0.802,
+      "C": 0.756,
+      "D": 0.756,
+      "E": 0.806,
+      "F": 0.805
+    },
+    "fab_copy_used": [
+      "J",
+      "N"
+    ],
+    "copy_epitope_sizes": [
+      11
+    ],
+    "n_direct": 11,
+    "n_glycan_only": 0,
+    "n_gold": 11,
+    "gold": [
+      121,
+      123,
+      124,
+      127,
+      160,
+      161,
+      162,
+      166,
+      167,
+      168,
+      169
+    ],
+    "glycan_sites": [
+      160
+    ],
+    "caveat": "4.3 A, and a trimer-axis epitope spanning all three protomers.",
+    "crosscheck_of": null
+  },
+  "VRC34": {
+    "pdb": "6NC3",
+    "resolution": 4.5,
+    "epitope_class": "fusion peptide",
+    "construct": "AMC011 v4.2 SOSIP",
+    "cutoff": 4.5,
+    "span": [
+      1,
+      856
+    ],
+    "env_chain_identity": {
+      "A": 0.885,
+      "B": 0.891,
+      "C": 0.885,
+      "I": 0.891,
+      "D": 0.885,
+      "J": 0.891,
+      "E": 0.885,
+      "K": 0.891,
+      "F": 0.885,
+      "M": 0.891,
+      "G": 0.885,
+      "N": 0.891
+    },
+    "fab_copy_used": [
+      "H",
+      "L"
+    ],
+    "copy_epitope_sizes": [
+      12,
+      12,
+      12,
+      12,
+      12,
+      12
+    ],
+    "n_direct": 10,
+    "n_glycan_only": 2,
+    "n_gold": 12,
+    "gold": [
+      85,
+      88,
+      241,
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520
+    ],
+    "glycan_sites": [
+      88,
+      241
+    ],
+    "caveat": null,
+    "crosscheck_of": null
+  },
+  "VRC01_trimer": {
+    "pdb": "6V8X",
+    "resolution": 3.0,
+    "epitope_class": "CD4bs",
+    "construct": "BG505 F14 SOSIP trimer",
+    "cutoff": 4.5,
+    "span": [
+      1,
+      856
+    ],
+    "env_chain_identity": {
+      "A": 0.756,
+      "B": 0.805,
+      "E": 0.756,
+      "F": 0.805,
+      "I": 0.756,
+      "J": 0.805
+    },
+    "fab_copy_used": [
+      "C",
+      "D"
+    ],
+    "copy_epitope_sizes": [
+      26,
+      26,
+      26
+    ],
+    "n_direct": 24,
+    "n_glycan_only": 2,
+    "n_gold": 26,
+    "gold": [
+      197,
+      198,
+      276,
+      278,
+      279,
+      280,
+      281,
+      282,
+      365,
+      366,
+      367,
+      368,
+      371,
+      427,
+      428,
+      430,
+      431,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      465,
+      469
+    ],
+    "glycan_sites": [
+      197,
+      276
+    ],
+    "caveat": null,
+    "crosscheck_of": "VRC01"
+  },
+  "3BNC117_trimer": {
+    "pdb": "5V8L",
+    "resolution": 4.3,
+    "epitope_class": "CD4bs",
+    "construct": "BG505 SOSIP.664 trimer",
+    "cutoff": 4.5,
+    "span": [
+      1,
+      856
+    ],
+    "env_chain_identity": {
+      "A": 0.757,
+      "B": 0.802,
+      "C": 0.756,
+      "D": 0.756,
+      "E": 0.806,
+      "F": 0.805
+    },
+    "fab_copy_used": [
+      "G",
+      "K"
+    ],
+    "copy_epitope_sizes": [
+      33,
+      32,
+      31
+    ],
+    "n_direct": 32,
+    "n_glycan_only": 1,
+    "n_gold": 33,
+    "gold": [
+      197,
+      207,
+      275,
+      276,
+      278,
+      279,
+      280,
+      281,
+      282,
+      306,
+      307,
+      308,
+      316,
+      318,
+      360,
+      363,
+      365,
+      366,
+      367,
+      368,
+      371,
+      428,
+      430,
+      456,
+      457,
+      458,
+      459,
+      461,
+      463,
+      469,
+      470,
+      471,
+      472
+    ],
+    "glycan_sites": [
+      197,
+      276,
+      363
+    ],
+    "caveat": null,
+    "crosscheck_of": "3BNC117"
+  },
+  "10-1074_6UDJ": {
+    "pdb": "6UDJ",
+    "resolution": 2.5,
+    "epitope_class": "V3-glycan",
+    "construct": "BG505 SOSIP.664 (resolution cross-check)",
+    "cutoff": 4.5,
+    "span": [
+      1,
+      856
+    ],
+    "env_chain_identity": {
+      "G": 0.764,
+      "C": 0.805,
+      "J": 0.764,
+      "M": 0.805,
+      "P": 0.764,
+      "F": 0.805
+    },
+    "fab_copy_used": [
+      "K",
+      "L"
+    ],
+    "copy_epitope_sizes": [
+      14,
+      13,
+      13
+    ],
+    "n_direct": 12,
+    "n_glycan_only": 2,
+    "n_gold": 14,
+    "gold": [
+      134,
+      156,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      330,
+      332,
+      415,
+      417
+    ],
+    "glycan_sites": [
+      156,
+      332
+    ],
+    "caveat": null,
+    "crosscheck_of": "10-1074"
+  }
+}

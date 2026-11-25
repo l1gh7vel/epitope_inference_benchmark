@@ -1,0 +1,18 @@
+# Generated pipeline state. Everything here is reproducible from scripts/.
+work/
+logs/
+
+# Figure panels, written by the generators in scripts/.
+results/paper_figures/
+
+# Raster copies of panels that are published as PDF.
+results/**/*.png
+results/**/*.svg
+
+# Local environment. .env.example is the tracked template.
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

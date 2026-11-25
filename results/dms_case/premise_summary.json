@@ -1,0 +1,8 @@
+{
+  "n_tests": 13,
+  "n_significant_one_sided": 10,
+  "bonferroni_alpha": 0.0038461538461538464,
+  "n_surviving_bonferroni": 9,
+  "n_significant_two_sided": 10,
+  "stat": "mean"
+}

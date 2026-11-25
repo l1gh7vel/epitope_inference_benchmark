@@ -1,0 +1,41 @@
+{
+  "fdr": 0.01,
+  "per_antibody": {
+    "10-1074": {
+      "n_escape": 9,
+      "n_measured": 661
+    },
+    "10E8": {
+      "n_escape": 9,
+      "n_measured": 661
+    },
+    "3BNC117": {
+      "n_escape": 15,
+      "n_measured": 661
+    },
+    "PG9": {
+      "n_escape": 4,
+      "n_measured": 661
+    },
+    "PGT121": {
+      "n_escape": 15,
+      "n_measured": 661
+    },
+    "PGT145": {
+      "n_escape": 13,
+      "n_measured": 661
+    },
+    "PGT151": {
+      "n_escape": 12,
+      "n_measured": 661
+    },
+    "VRC01": {
+      "n_escape": 5,
+      "n_measured": 661
+    },
+    "VRC34": {
+      "n_escape": 13,
+      "n_measured": 661
+    }
+  }
+}

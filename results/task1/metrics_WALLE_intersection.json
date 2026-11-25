@@ -1,0 +1,54 @@
+{
+  "method": "WALLE",
+  "arm": "intersection",
+  "n": 3804,
+  "n_eligible": 3804,
+  "n_skipped_missing_score": 0,
+  "scores_dir": "work/task1/walle/scores/experimental/treasured-sweep-8",
+  "checkpoint": "treasured-sweep-8",
+  "auprc_mean": 0.24823741583061745,
+  "auprc_median": 0.19882656973490515,
+  "floor_mean": 0.06862745645521602,
+  "enrichment_mean": 5.45833819811209,
+  "enrichment_median": 3.10215417313806,
+  "rankbis_mean": 0.5673009519178337,
+  "per_fold": {
+    "1": {
+      "n": 887.0,
+      "clusters": 22.0,
+      "auprc": 0.2002260563874994,
+      "floor": 0.025923016496465043,
+      "enrich": 7.738196455546924
+    },
+    "2": {
+      "n": 708.0,
+      "clusters": 237.0,
+      "auprc": 0.17900775625843646,
+      "floor": 0.061987289431348305,
+      "enrich": 2.411638892309307
+    },
+    "3": {
+      "n": 710.0,
+      "clusters": 242.0,
+      "auprc": 0.20722563267206995,
+      "floor": 0.06448988045922593,
+      "enrich": 2.725161763900985
+    },
+    "4": {
+      "n": 758.0,
+      "clusters": 243.0,
+      "auprc": 0.21829993967065076,
+      "floor": 0.06634419201760619,
+      "enrich": 2.6431364460826274
+    },
+    "5": {
+      "n": 741.0,
+      "clusters": 243.0,
+      "auprc": 0.19065731254470347,
+      "floor": 0.06678082191780822,
+      "enrich": 2.529363172536571
+    }
+  },
+  "swap_gap": 0.03934683462377363,
+  "swap_n": 2991
+}

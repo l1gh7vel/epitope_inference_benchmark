@@ -1,0 +1,91 @@
+{
+  "task": "task3cov",
+  "variant": "walle_score",
+  "method": "WALLE comic-sweep-9",
+  "n": 300,
+  "bins": [
+    "NTD",
+    "RBD",
+    "S2"
+  ],
+  "accuracy": 0.3333333333333333,
+  "macro_recall": 0.3333333333333333,
+  "random_macro_recall": 0.33770000000000006,
+  "kappa": 0.0,
+  "mcc": 0.0,
+  "top2": 0.6533333333333333,
+  "mean_rank_true": 2.013333333333333,
+  "rankbis_mean": 0.09247099749034422,
+  "rankbis_median": 0.3043953400418692,
+  "floor_majority": 0.3333333333333333,
+  "floor_majority_bin": "NTD",
+  "floor_random": 0.33231666666666665,
+  "floor_uniform": 0.3333333333333333,
+  "chance_agreement": 0.3333333333333333,
+  "perm_p": 0.5287356321839081,
+  "perm_z": 0.003533782193292289,
+  "perm_null_mean": 0.33326999999999996,
+  "n_predicted_per_bin": {
+    "NTD": 49,
+    "RBD": 245,
+    "S2": 6
+  },
+  "per_bin": [
+    {
+      "bin": "NTD",
+      "n": 100,
+      "recall": 0.18,
+      "random_recall": 0.34455,
+      "precision": 0.3673469387755102,
+      "tp": 18,
+      "n_predicted": 49,
+      "f1": 0.24161073825503357,
+      "rankbis": 0.3115043673483706,
+      "below_random": true,
+      "trimer_dependent": false
+    },
+    {
+      "bin": "RBD",
+      "n": 100,
+      "recall": 0.81,
+      "random_recall": 0.36425,
+      "precision": 0.3306122448979592,
+      "tp": 81,
+      "n_predicted": 245,
+      "f1": 0.46956521739130436,
+      "rankbis": 0.5065530215673714,
+      "below_random": false,
+      "trimer_dependent": false
+    },
+    {
+      "bin": "S2",
+      "n": 100,
+      "recall": 0.01,
+      "random_recall": 0.3043,
+      "precision": 0.16666666666666666,
+      "tp": 1,
+      "n_predicted": 6,
+      "f1": 0.018867924528301886,
+      "rankbis": -0.5406443964447092,
+      "below_random": true,
+      "trimer_dependent": false
+    }
+  ],
+  "confusion": {
+    "NTD": {
+      "NTD": 18,
+      "RBD": 79,
+      "S2": 3
+    },
+    "RBD": {
+      "NTD": 17,
+      "RBD": 81,
+      "S2": 2
+    },
+    "S2": {
+      "NTD": 14,
+      "RBD": 85,
+      "S2": 1
+    }
+  }
+}

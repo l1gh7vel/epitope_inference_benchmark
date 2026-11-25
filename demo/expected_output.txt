@@ -1,0 +1,12 @@
+6 antibodies, 1273 antigen positions each
+
+antibody         epitope    AUPRC   floor    cross      gap
+t2_009_9lae           13   0.9945  0.0102   0.2639  +0.7306
+t2_088_7x8w           20   0.9900  0.0157   0.1747  +0.8153
+t2_286_8g73            6   0.0231  0.0047   0.0064  +0.0167
+t2_005_8ybz           21   0.0291  0.0165   0.0191  +0.0100
+t2_014_9au2            2   0.0012  0.0016   0.0053  -0.0041
+t2_025_8gdr            1   0.0008  0.0008   0.0054  -0.0046
+
+mean antibody-swap gap: +0.2606
+the same gap for one fixed vector: +0.0000

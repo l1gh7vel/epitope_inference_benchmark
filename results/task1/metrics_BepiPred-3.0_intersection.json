@@ -1,0 +1,54 @@
+{
+  "method": "BepiPred-3.0",
+  "arm": "intersection",
+  "n": 3804,
+  "n_eligible": 3804,
+  "n_skipped_missing_score": 0,
+  "scores_dir": "work/task1/scores_bepipred",
+  "checkpoint": "scores_bepipred",
+  "auprc_mean": 0.14168340458856277,
+  "auprc_median": 0.1162033604366765,
+  "floor_mean": 0.06862745645521602,
+  "enrichment_mean": 2.906932889538776,
+  "enrichment_median": 1.720780301679218,
+  "rankbis_mean": 0.31047544652764375,
+  "per_fold": {
+    "1": {
+      "n": 887.0,
+      "clusters": 22.0,
+      "auprc": 0.15471638060581724,
+      "floor": 0.025923016496465043,
+      "enrich": 5.947548817060374
+    },
+    "2": {
+      "n": 708.0,
+      "clusters": 237.0,
+      "auprc": 0.08864438567528549,
+      "floor": 0.061987289431348305,
+      "enrich": 1.335559530460421
+    },
+    "3": {
+      "n": 710.0,
+      "clusters": 242.0,
+      "auprc": 0.11062175058707951,
+      "floor": 0.06448988045922593,
+      "enrich": 1.4387305522129452
+    },
+    "4": {
+      "n": 758.0,
+      "clusters": 243.0,
+      "auprc": 0.10571754351045418,
+      "floor": 0.06634419201760619,
+      "enrich": 1.3771774709575175
+    },
+    "5": {
+      "n": 741.0,
+      "clusters": 243.0,
+      "auprc": 0.1008846282733919,
+      "floor": 0.06678082191780822,
+      "enrich": 1.3462107364118467
+    }
+  },
+  "swap_gap": -2.2197454715154047e-05,
+  "swap_n": 2991
+}
